@@ -1,0 +1,16 @@
+'''
+elif i==12:
+        list=checklist(tbody[i])
+        list_confirmed=[]
+        for i in range(len(list)):
+            list_confirmed.append(bs(list[i],'html.parser'))
+        Key = tbody[i].get_text(" ",strip=True)
+        Data = list_confirmed
+        dictonary[Key] = Data
+    elif i==16 or i==17:
+        list = checklist(tbody[i])
+        list=bs(list,'html.parser')
+        Key = tbody[i].th.text
+        Data = list
+        dictonary[Key] = Data
+'''

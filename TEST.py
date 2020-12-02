@@ -25,21 +25,6 @@ for i in range(len(tbody)):
         dictonary['title']=tbody[i].text
     elif i==1:
         continue
-
-    elif i==12:
-        list=checklist(tbody[i])
-        list_confirmed=[]
-        for i in range(len(list)):
-            list_confirmed.append(bs(list[i],'html.parser'))
-        Key = tbody[i].get_text()
-        Data = list_confirmed
-        dictonary[Key] = Data
-    elif i==16 or i==17:
-        list = checklist(tbody[i])
-        list=bs(list,'html.parser')
-        Key = tbody[i].th.text
-        Data = list
-        dictonary[Key] = Data
     else:
         Key=tbody[i].th.text
         Data=checklist(tbody[i])
