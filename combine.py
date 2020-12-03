@@ -24,7 +24,7 @@ def checklist(text):
         list_items=text.td.find_all('li')
         list=[]
         for i in range(len(list_items)):
-            list=bs(list_items[i].text,'html.parser')
+            list=list_items[i].text.replace("\xa0"," ")
         return list
     elif(text.td.div):
         return text.td.text
