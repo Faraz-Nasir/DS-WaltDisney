@@ -8,16 +8,36 @@ def save_data(title,text):
 
 dict=load_data("Walt_Disney_Movies.json")
 
-
 #Convert time into an integer
 #Convert dates to datetimeobject
 #convert budget and box office into numbers
-#clean up refernces [1][2]
+#clean up refernces [1][2](Done)
 
-edit_list=["1","2","3","4","5","6","7","8","9","10",]
+"""
+count=0
+for i in range(len(dict)):
+    list=[]
+    list_keys=[]
+    for values in dict[i].values():
+        list.append(values)
+    for keys in dict[i].keys():
+        list_keys.append(keys)
+
+    for j in range(len(list)):
+        if('minutes' in list[j]):
+            if('Running time' in list_keys[j]):
+                count+=1
+                continue
+            else:
+                print(list_keys[j])
+
+print(count)
+print(len(dict))"""
 
 #removes [1] etc and "\xa0" from all values in dict
-"""for i in range(len(dict)):
+"""
+edit_list=["1","2","3","4","5","6","7","8","9","10"]
+for i in range(len(dict)):
     list = []
     for key in dict[i].keys():
         list.append(key)
@@ -29,6 +49,39 @@ edit_list=["1","2","3","4","5","6","7","8","9","10",]
                 dict[i][s] = dict[i][s].replace("\xa0", "")
 for i in range(len(dict)):
     print(dict[i])
-
-
 save_data("Walt_Disney_Movies.json",dict)"""
+
+#minutes,min,list
+def minute_to_integer(running_time):
+    value=running_time.split(" ")[0]
+    return value
+minutes=[value.get("Running time","N/A") for value in dict]
+mins=[]#removed minutes word from list(minutes)
+for i in minutes:
+    mins.append(minute_to_integer(i))
+for i in range(len(mins)):
+    if('minutes' in mins[i]):
+        mins[i]=mins[i].replace("minutes","")
+        mins[i]=int(mins[i])
+    else:
+        mins[i]=mins[i]
+
+
+for i in range(len(mins)):
+    if(mins[i]!='N/A'):
+        dict[i]["Running time"]=mins[i]
+    else:
+        continue
+
+for i in range(len(dict)):
+    try:
+        if("Running time" in dict[i]):
+            dict[i]["Running time"]=int(mins[i])
+    except:
+        dict[i]["Running time"]=23
+        print("Done")
+
+save_data("Walt_Disney_Movies.json",dict)
+
+
+
