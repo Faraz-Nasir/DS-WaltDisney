@@ -22,8 +22,8 @@
     "Running time": "83 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$1.49 million[1]",
-    "Box office": "$418 million[2]"
+    "Budget": "$1.49 million",
+    "Box office": "$418 million"
   },
   {
     "title": "Pinocchio",
@@ -35,12 +35,12 @@
     "Music by": "Paul J. Smith",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "February 23, 1940 (1940-02-23) (United States)[2]",
+    "Release date": "February 23, 1940 (1940-02-23) (United States)",
     "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$2.6 million[3]",
-    "Box office": "$164 million"
+    "Budget": "$2.6 million",
+    "Box office": "$164million"
   },
   {
     "title": "Fantasia",
@@ -54,11 +54,11 @@
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
     "Release date": "November 13, 1940 (1940-11-13)",
-    "Running time": "126 minutes[1]",
+    "Running time": "126 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$2.28 million[2][3]",
-    "Box office": "$76.4–$83.3 million[4][5]"
+    "Budget": "$2.28 million",
+    "Box office": "$76.4–$83.3 million"
   },
   {
     "title": "Dumbo",
@@ -75,8 +75,8 @@
     "Running time": "64 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$950,000[2]",
-    "Box office": "$1.3 million (est. United States/Canada rentals, 1941)[3]"
+    "Budget": "$950,000",
+    "Box office": "$1.3 million (est. United States/Canada rentals, 1941)"
   },
   {
     "title": "Bambi",
@@ -88,12 +88,12 @@
     "Music by": "Frank ChurchillEdward H. Plumb",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "August 21, 1942 (1942-08-21) (U.S.)[1]",
+    "Release date": "August 21, 1942 (1942-08-21) (U.S.)",
     "Running time": "70 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$858,000[2]",
-    "Box office": "$267.4 million[3]"
+    "Budget": "$858,000",
+    "Box office": "$267.4 million"
   },
   {
     "title": "Saludos Amigos",
@@ -105,11 +105,11 @@
     "Music by": "Edward H. Plumb",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "February 19, 1943 (1943-02-19) (U.S.)[1]",
+    "Release date": "February 19, 1943 (1943-02-19) (U.S.)",
     "Running time": "42 minutes",
     "Country": "United States",
     "Language": "Spanish",
-    "Box office": "$1,135,000 (worldwide rentals) [2]"
+    "Box office": "$1,135,000 (worldwide rentals) "
   },
   {
     "title": "Victory Through Air Power",
@@ -140,11 +140,11 @@
     "Music by": "Charles Wolcott",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "February 3, 1945 (1945-02-03) (US)[1]",
+    "Release date": "February 3, 1945 (1945-02-03) (US)",
     "Running time": "71 minutes",
     "Country": "United States",
     "Language": "Portuguese",
-    "Box office": "$3,355,000 (worldwide rentals) [2]"
+    "Box office": "$3,355,000 (worldwide rentals) "
   },
   {
     "title": "Make Mine Music",
@@ -156,12 +156,12 @@
     "Music by": "Edward Plumb",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures, Inc.",
-    "Release date": "August 15, 1946 (1946-08-15) (U.S.)[1]",
+    "Release date": "August 15, 1946 (1946-08-15) (U.S.)",
     "Running time": "75 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$1.35 million[2]",
-    "Box office": "$3.275 million (worldwide rentals)[3]"
+    "Budget": "$1.35 million",
+    "Box office": "$3.275 million (worldwide rentals)"
   },
   {
     "title": "Song of the South",
@@ -175,12 +175,12 @@
     "Edited by": "William M. Morgan",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "November 20, 1946 (1946-11-20)[1]",
-    "Running time": "94 minutes[2]",
+    "Release date": "November 20, 1946 (1946-11-20)",
+    "Running time": "94 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$2.125 million[3]",
-    "Box office": "$65 million[4]"
+    "Budget": "$2.125 million",
+    "Box office": "$65 million"
   },
   {
     "title": "Fun and Fancy Free",
@@ -198,7 +198,7 @@
     "Running time": "73 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,165,000 (worldwide rentals)[1]"
+    "Box office": "$3,165,000 (worldwide rentals)"
   },
   {
     "title": "Melody Time",
@@ -210,12 +210,12 @@
     "Edited by": "Donald HallidayThomas Scott",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures, Inc.",
-    "Release date": "May 27, 1948 (1948-05-27)",
+    "Release date": "May27,1948(1948-05-27)",
     "Running time": "75 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$1.5 million [1]",
-    "Box office": "$2,560,000 (worldwide rentals) [2]"
+    "Budget": "$1.5 million ",
+    "Box office": "$2,560,000 (worldwide rentals) "
   },
   {
     "title": "So Dear to My Heart",
@@ -229,12 +229,12 @@
     "Edited by": "Lloyd L. RichardsonThomas Scott",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures, Inc.",
-    "Release date": "November 29, 1948 (Chicago, Illinois)January 19, 1949 (Indianapolis, Indiana)[1]",
+    "Release date": "November 29, 1948 (Chicago, Illinois)January 19, 1949 (Indianapolis, Indiana)",
     "Running time": "82 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$1.5 million [2]",
-    "Box office": "$3.7 million (U.S. rental) $575,000 (foreign rental) [3][4]"
+    "Budget": "$1.5 million ",
+    "Box office": "$3.7 million (U.S. rental) $575,000 (foreign rental) "
   },
   {
     "title": "The Adventures of Ichabod andMr. Toad",
@@ -252,13 +252,13 @@
     "Running time": "68 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1,625,000 (worldwide rentals)[1]"
+    "Box office": "$1,625,000 (worldwide rentals)"
   },
   {
     "title": "Cinderella",
     "Directed by": "Wilfred Jackson",
     "Produced by": "Walt Disney",
-    "Story by": "Maurice Rapf (uncredited)[1][2]",
+    "Story by": "Maurice Rapf (uncredited)",
     "Based on": "Cinderellaby Charles Perrault",
     "Starring": "Lucille Bliss",
     "Narrated by": "Betty Lou Gerson",
@@ -266,12 +266,12 @@
     "Edited by": "Donald Halliday",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "March 4, 1950 (1950-03-04) (United States)[3]",
-    "Running time": "74 minutes[4]",
+    "Release date": "March 4, 1950 (1950-03-04) (United States)",
+    "Running time": "74 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$2.9 million[5]",
-    "Box office": "$263.6 million[5]"
+    "Budget": "$2.9 million",
+    "Box office": "$263.6 million"
   },
   {
     "title": "Treasure Island",
@@ -285,12 +285,12 @@
     "Edited by": "Alan Jaggs",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "July 29, 1950 (1950-07-29) (US)[1]",
+    "Release date": "July 29, 1950 (1950-07-29) (US)",
     "Running time": "96 minutes",
     "Country": "United StatesUnited Kingdom",
     "Language": "English",
-    "Budget": "$1,800,000[2]",
-    "Box office": "$4,100,000 (worldwide rentals) [3]"
+    "Budget": "$1,800,000",
+    "Box office": "$4,100,000 (worldwide rentals) "
   },
   {
     "title": "Alice in Wonderland",
@@ -304,11 +304,11 @@
     "Edited by": "Lloyd Richardson",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "July 28, 1951 (1951-07-28) (New York City, premiere)[1]",
-    "Running time": "75 minutes[2]",
+    "Release date": "July 28, 1951 (1951-07-28) (New York City, premiere)",
+    "Running time": "75 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$3 million[3]",
+    "Budget": "$3 million",
     "Box office": "$5.6 million (US, 1951)"
   },
   {
@@ -319,13 +319,13 @@
     "Starring": "Richard ToddJoan RicePeter Finch",
     "Music by": "Clifton Parker",
     "Cinematography": "Guy Green",
-    "Productioncompany ": "Walt Disney ProductionsRKO Radio Pictures, Inc.[1]",
+    "Productioncompany ": "Walt Disney ProductionsRKO Radio Pictures, Inc.",
     "Distributed by": "RKO Radio Pictures, Inc.",
-    "Release date": "June 26, 1952 (1952-06-26) (US)[2]",
+    "Release date": "June 26, 1952 (1952-06-26) (US)",
     "Running time": "84 minutes",
     "Country": "United StatesUnited Kingdom",
     "Language": "English",
-    "Box office": "$2.1 million (US rentals)[3]"
+    "Box office": "$2.1 million (US rentals)"
   },
   {
     "title": "Peter Pan",
@@ -338,12 +338,12 @@
     "Music by": "Oliver Wallace",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "February 5, 1953 (1953-02-05) (United States)[1]",
+    "Release date": "February 5, 1953 (1953-02-05) (United States)",
     "Running time": "77 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$4 million[2]",
-    "Box office": "$87.4 million[2]"
+    "Budget": "$4 million",
+    "Box office": "$87.4 million"
   },
   {
     "title": "The Sword and the Rose",
@@ -356,12 +356,12 @@
     "Edited by": "Gerald Thomas",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "August 8, 1953 (1953-08-08) (US)[1]",
+    "Release date": "August 8, 1953 (1953-08-08) (US)",
     "Running time": "92 minutes",
     "Country": "United Kingdom  United States",
     "Language": "English",
-    "Budget": "$2 million[2]",
-    "Box office": "$1 million (US)[3]"
+    "Budget": "$2 million",
+    "Box office": "$1 million (US)"
   },
   {
     "title": "The Living Desert",
@@ -379,7 +379,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$300,000",
-    "Box office": "$2.6 million (US)[1]"
+    "Box office": "$2.6 million (US)"
   },
   {
     "title": "Rob Roy, the Highland Rogue",
@@ -392,11 +392,11 @@
     "Edited by": "Geoffrey Foot",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "4 February 1954 (1954-02-04) (US)[1]",
+    "Release date": "4 February 1954 (1954-02-04) (US)",
     "Running time": "81 minutes",
     "Country": "United KingdomUnited States",
     "Language": "English",
-    "Budget": "$1.8 million[2]"
+    "Budget": "$1.8 million"
   },
   {
     "title": "The Vanishing Prairie",
@@ -412,7 +412,7 @@
     "Running time": "60 minutes (VHS version)71 minutes (original)",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.75 million (US and Canadian rentals)[1]"
+    "Box office": "$1.75 million (US and Canadian rentals)"
   },
   {
     "title": "20,000 Leagues Under the Sea",
@@ -430,8 +430,8 @@
     "Running time": "127 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million[1]",
-    "Box office": "$28.2 million[2]"
+    "Budget": "$5 million",
+    "Box office": "$28.2 million"
   },
   {
     "title": "Davy Crockett, King of the Wild Frontier",
@@ -444,11 +444,11 @@
     "Edited by": "Chester W. Schaeffer",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Film Distribution Co., Inc.",
-    "Release date": "May 25, 1955 (1955-05-25)",
+    "Release date": "May25,1955(1955-05-25)",
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2,150,000 (US)[1]"
+    "Box office": "$2,150,000 (US)"
   },
   {
     "title": "Lady and the Tramp",
@@ -465,8 +465,8 @@
     "Running time": "76 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$4 million[1]",
-    "Box office": "$187 million[2]"
+    "Budget": "$4 million",
+    "Box office": "$187 million"
   },
   {
     "title": "The African Lion",
@@ -479,11 +479,11 @@
     "Edited by": "Norman R. Palmer",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "September 14, 1955 (1955-09-14)[1]",
+    "Release date": "September 14, 1955 (1955-09-14)",
     "Running time": "75 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.1 million (US)[2]"
+    "Box office": "$2.1 million (US)"
   },
   {
     "title": "The Littlest Outlaw",
@@ -491,11 +491,11 @@
     "Starring": "Pedro ArmendárizJoseph CalleiaAndrés Velázquez",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 22, 1955 (1955-12-22)",
+    "Release date": "December22,1955(1955-12-22)",
     "Running time": "73 minutes",
     "Country": "United States, Mexico",
     "Language": "English, Spanish",
-    "Box office": "$1.6 million (US)[1]"
+    "Box office": "$1.6 million (US)"
   },
   {
     "title": "The Great Locomotive Chase",
@@ -508,11 +508,11 @@
     "Edited by": "Ellsworth Hoagland",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 8, 1956[1]",
+    "Release date": "June 8, 1956",
     "Running time": "85 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.7 million (US)[2]"
+    "Box office": "$1.7 million (US)"
   },
   {
     "title": "Secrets of Life",
@@ -546,7 +546,7 @@
     "Running time": "90 min.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.75 million (US)[1]"
+    "Box office": "$2.75 million (US)"
   },
   {
     "title": "Johnny Tremain",
@@ -559,11 +559,11 @@
     "Edited by": "Stanley E. Johnson",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 19, 1957 (1957-06-19)",
+    "Release date": "June19,1957(1957-06-19)",
     "Running time": "80 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$700,000[1]"
+    "Budget": "$700,000"
   },
   {
     "title": "Perri",
@@ -575,11 +575,11 @@
     "Edited by": "Jack Atwood",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "August 28, 1957 (1957-08-28)",
+    "Release date": "August28,1957(1957-08-28)",
     "Running time": "75 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.75 million (US rentals)[1]"
+    "Box office": "$1.75 million (US rentals)"
   },
   {
     "title": "Old Yeller",
@@ -597,7 +597,7 @@
     "Running time": "83 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6,250,000 (US/Canada rentals)[1]"
+    "Box office": "$6,250,000 (US/Canada rentals)"
   },
   {
     "title": "The Light in the Forest",
@@ -629,7 +629,7 @@
     "Running time": "72 minutes",
     "Country": "United StatesCanada",
     "Language": "English",
-    "Box office": "$1.8 million (est. US/ Canada rentals)[1]"
+    "Box office": "$1.8 million (est. US/ Canada rentals)"
   },
   {
     "title": "Tonka",
@@ -646,7 +646,7 @@
     "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.5 million (est. US/ Canada rentals)[1]"
+    "Box office": "$2.5 million (est. US/ Canada rentals)"
   },
   {
     "title": "Sleeping Beauty",
@@ -665,8 +665,8 @@
     "Running time": "75 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$6 million[2]",
-    "Box office": "$51.6 million (United States/Canada)[3]"
+    "Budget": "$6 million",
+    "Box office": "$51.6 million (United States/Canada)"
   },
   {
     "title": "The Shaggy Dog",
@@ -685,8 +685,8 @@
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "under $1 million[1] or $1,250,000[2]",
-    "Box office": "$12.3 million (US and Canada rentals)[3]"
+    "Budget": "under $1 million or $1,250,000",
+    "Box office": "$12.3 million (US and Canada rentals)"
   },
   {
     "title": "Darby O'Gill and the Little People",
@@ -699,11 +699,11 @@
     "Edited by": "Stanley Johnson",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 26, 1959 (1959-06-26) (Los Angeles)[1]",
+    "Release date": "June 26, 1959 (1959-06-26) (Los Angeles)",
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "Original release:$2.6 million (est. US/ Canada rentals)[2]1969 re-release:$2.3 million  (US/ Canada rentals)[3]"
+    "Box office": "Original release:$2.6 million (est. US/ Canada rentals)1969 re-release:$2.3 million  (US/ Canada rentals)"
   },
   {
     "title": "Zorro",
@@ -719,7 +719,7 @@
     "Original network": "ABC",
     "Picture format": "Black-and-white (also colorized)",
     "Audio format": "Monaural",
-    "Original release": "October 10, 1957 (1957-10-10) –July 2, 1959 (1959-07-02)",
+    "Original release": "October 10, 1957(1957-10-10)–July 2, 1959(1959-07-02)",
     "Related shows": "Zorro and Son"
   },
   {
@@ -737,8 +737,8 @@
     "Running time": "105 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$2 million[1]",
-    "Box office": "$1,700,000 (US/Canada rentals)[2]"
+    "Budget": "$2 million",
+    "Box office": "$1,700,000 (US/Canada rentals)"
   },
   {
     "title": "Toby Tyler",
@@ -747,14 +747,14 @@
     "Written by": "Lillie Hayward and Bill Walsh",
     "Based on": "Toby Tyler; or, Ten Weeks with a Circusby James Otis Kaler",
     "Starring": "Kevin CorcoranHenry CalvinGene SheldonRichard Eastham",
-    "Music by": "Buddy Baker[1]",
+    "Music by": "Buddy Baker",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "January 21, 1960 (Sarasota, FL)[2]",
+    "Release date": "January 21, 1960 (Sarasota, FL)",
     "Running time": "95 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,100,000 (US/Canada rentals)[3]"
+    "Box office": "$3,100,000 (US/Canada rentals)"
   },
   {
     "title": "Kidnapped",
@@ -785,12 +785,12 @@
     "Edited by": "Frank Gross",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "May 19, 1960 (1960-05-19)",
+    "Release date": "May19,1960(1960-05-19)",
     "Running time": "134 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$2.5 million[1]",
-    "Box office": "$3.75 million (US and Canadian rentals)[2]"
+    "Budget": "$2.5 million",
+    "Box office": "$3.75 million (US and Canadian rentals)"
   },
   {
     "title": "Zorro",
@@ -806,7 +806,7 @@
     "Original network": "ABC",
     "Picture format": "Black-and-white (also colorized)",
     "Audio format": "Monaural",
-    "Original release": "October 10, 1957 (1957-10-10) –July 2, 1959 (1959-07-02)",
+    "Original release": "October 10, 1957(1957-10-10)–July 2, 1959(1959-07-02)",
     "Related shows": "Zorro and Son"
   },
   {
@@ -824,7 +824,7 @@
     "Running time": "69 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.3 million (US and Canadian rentals)[1]"
+    "Box office": "$2.3 million (US and Canadian rentals)"
   },
   {
     "title": "Ten Who Dared",
@@ -853,7 +853,7 @@
     "Music by": "William Alwyn (composer)Muir Mathieson (conductor)",
     "Cinematography": "Harry Waxman",
     "Edited by": "Peter Boita",
-    "Productioncompany ": "Walt Disney Productions[1]",
+    "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "December 21, 1960 (1960-12-21)",
     "Running time": "126 minutes",
@@ -877,8 +877,8 @@
     "Running time": "79 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$3.6 million[1]",
-    "Box office": "$303 million[2]"
+    "Budget": "$3.6 million",
+    "Box office": "$303 million"
   },
   {
     "title": "The Absent-Minded Professor",
@@ -892,7 +892,7 @@
     "Edited by": "Cotton Warburton",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 16, 1961[1]",
+    "Release date": "March 16, 1961",
     "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
@@ -945,11 +945,11 @@
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "December 14, 1961 (1961-12-14)",
-    "Running time": "105 minutes[1]",
+    "Running time": "105 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$3 million[2]",
-    "Box office": "$4.6 million (US/Canada rentals)[3]"
+    "Budget": "$3 million",
+    "Box office": "$4.6 million (US/Canada rentals)"
   },
   {
     "title": "Moon Pilot",
@@ -961,11 +961,11 @@
     "Cinematography": "William E. Snyder",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "April 5, 1962 (1962-04-05)",
+    "Release date": "April5,1962(1962-04-05)",
     "Running time": "98 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3.5 million[1]"
+    "Box office": "$3.5 million"
   },
   {
     "title": "Bon Voyage!",
@@ -983,8 +983,8 @@
     "Running time": "130 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$3 million[1]",
-    "Box office": "$5 million (rentals)[2]"
+    "Budget": "$3 million",
+    "Box office": "$5 million (rentals)"
   },
   {
     "title": "Almost Angels",
@@ -1010,7 +1010,7 @@
     "Edited by": "Norman R. Palmer",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "November 7, 1962 (1962-11-07) (Los Angeles)[1]",
+    "Release date": "November 7, 1962 (1962-11-07) (Los Angeles)",
     "Running time": "67 minutes",
     "Country": "United States",
     "Language": "English"
@@ -1031,7 +1031,7 @@
     "Running time": "98 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$21,745,500[1]"
+    "Box office": "$21,745,500"
   },
   {
     "title": "Son of Flubber",
@@ -1048,7 +1048,7 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22.1 million[1]"
+    "Box office": "$22.1 million"
   },
   {
     "title": "Miracle of the White Stallions",
@@ -1066,7 +1066,7 @@
     "Running time": "118 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2,550,000 (US/ Canada)[1]"
+    "Box office": "$2,550,000 (US/ Canada)"
   },
   {
     "title": "Savage Sam",
@@ -1084,7 +1084,7 @@
     "Running time": "103 Minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,000,000 (US/ Canada)[1]"
+    "Box office": "$3,000,000 (US/ Canada)"
   },
   {
     "title": "Summer Magic",
@@ -1099,7 +1099,7 @@
     "Running time": "110 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,350,000 (US/ Canada rentals) [1]"
+    "Box office": "$4,350,000 (US/ Canada rentals) "
   },
   {
     "title": "The Incredible Journey",
@@ -1114,11 +1114,11 @@
     "Edited by": "Norman R. Palmer",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "November 20, 1963 (1963-11-20)",
+    "Release date": "November20,1963(1963-11-20)",
     "Running time": "80 min.",
     "Country": "United StatesCanada",
     "Language": "English",
-    "Box office": "$4.2 million (US/Canada) (rentals)[1]"
+    "Box office": "$4.2 million (US/Canada) (rentals)"
   },
   {
     "title": "The Sword in the Stone",
@@ -1135,8 +1135,8 @@
     "Running time": "79 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$3 million[1]",
-    "Box office": "$22.2 million[2]"
+    "Budget": "$3 million",
+    "Box office": "$22.2 million"
   },
   {
     "title": "A Tiger Walks",
@@ -1150,11 +1150,11 @@
     "Edited by": "Grant K. Smith",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 12, 1964 (1964-03-12)",
+    "Release date": "March12,1964(1964-03-12)",
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "est. $1,600,000 (US/ Canada)[1]"
+    "Box office": "est. $1,600,000 (US/ Canada)"
   },
   {
     "title": "The Misadventures of Merlin Jones",
@@ -1167,11 +1167,11 @@
     "Edited by": "Cotton Warburton",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 11, 1964 (1964-02-11) (Los Angeles)[1]",
+    "Release date": "February 11, 1964 (1964-02-11) (Los Angeles)",
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,000,000 (US/ Canada)[2]"
+    "Box office": "$4,000,000 (US/ Canada)"
   },
   {
     "title": "The Three Lives of Thomasina",
@@ -1185,11 +1185,11 @@
     "Edited by": "Gordon Stone",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "11 December 1963 (1963-12-11) (New York City, New York)4 June 1964 (1964-06-04) (United States)",
+    "Release date": "11December1963(1963-12-11) (New York City, New York)4June1964(1964-06-04) (United States)",
     "Running time": "97 minutes",
     "Country": "United KingdomUnited States",
     "Language": "EnglishGaelic",
-    "Box office": "$2,250,000 (US/ Canada)[1]"
+    "Box office": "$2,250,000 (US/ Canada)"
   },
   {
     "title": "The Moon-Spinners",
@@ -1204,7 +1204,7 @@
     "Release date": "July 2, 1964 (1964-07-02)",
     "Running time": "118 minutes",
     "Language": "English",
-    "Box office": "est. $3,500,000 (US/ Canada)[1]"
+    "Box office": "est. $3,500,000 (US/ Canada)"
   },
   {
     "title": "Mary Poppins",
@@ -1219,11 +1219,11 @@
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "August 27, 1964 (1964-08-27)",
-    "Running time": "139 minutes[3]",
+    "Running time": "139 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$4.4–6 million[4]",
-    "Box office": "$103.1 million[5]"
+    "Budget": "$4.4–6 million",
+    "Box office": "$103.1 million"
   },
   {
     "title": "Emil and the Detectives",
@@ -1239,7 +1239,7 @@
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1,275,000[1]"
+    "Box office": "$1,275,000"
   },
   {
     "title": "Those Calloways",
@@ -1256,7 +1256,7 @@
     "Running time": "131 mins.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,500,000 (US/ Canada rentals)[1]"
+    "Box office": "$3,500,000 (US/ Canada rentals)"
   },
   {
     "title": "The Monkey's Uncle",
@@ -1269,11 +1269,11 @@
     "Edited by": "Cotton Warburton",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "August 18, 1965 (1965-08-18) (Los Angeles)[1]",
+    "Release date": "August 18, 1965 (1965-08-18) (Los Angeles)",
     "Running time": "87 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,000,000 (US/Canada rentals)[2]"
+    "Box office": "$4,000,000 (US/Canada rentals)"
   },
   {
     "title": "That Darn Cat!",
@@ -1290,7 +1290,7 @@
     "Running time": "116 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$28,068,222[1]"
+    "Box office": "$28,068,222"
   },
   {
     "title": "The Ugly Dachshund",
@@ -1304,11 +1304,11 @@
     "Edited by": "Robert Stafford",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 4, 1966 (1966-02-04) (premiere)February 16, 1966 (1966-02-16)",
+    "Release date": "February4,1966(1966-02-04) (premiere)February16,1966(1966-02-16)",
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6.2 million (est. US/ Canada rentals)[1]"
+    "Box office": "$6.2 million (est. US/ Canada rentals)"
   },
   {
     "title": "Lt. Robin Crusoe, U.S.N.",
@@ -1321,11 +1321,11 @@
     "Edited by": "Cotton Warburton",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 29, 1966 (1966-06-29) (U.S.)[1]",
+    "Release date": "June 29, 1966 (1966-06-29) (U.S.)",
     "Running time": "110 min.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22,565,634[2]"
+    "Box office": "$22,565,634"
   },
   {
     "title": "The Fighting Prince of Donegal",
@@ -1359,7 +1359,7 @@
     "Running time": "131 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$16,207,116[1]"
+    "Box office": "$16,207,116"
   },
   {
     "title": "Monkeys, Go Home!",
@@ -1372,11 +1372,11 @@
     "Edited by": "Marsh Hendry",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 8, 1967 (1967-02-08) (San Francisco)[1]",
+    "Release date": "February 8, 1967 (1967-02-08) (San Francisco)",
     "Running time": "101 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,000,000 (US/ Canada)[2]"
+    "Box office": "$3,000,000 (US/ Canada)"
   },
   {
     "title": "The Adventures of Bullwhip Griffin",
@@ -1393,7 +1393,7 @@
     "Running time": "108 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1,900,000 (US/ Canada)[1]"
+    "Box office": "$1,900,000 (US/ Canada)"
   },
   {
     "title": "The Gnome-Mobile",
@@ -1407,17 +1407,17 @@
     "Edited by": "Norman R. Palmer",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 12, 1967 (1967-07-12)[1]",
+    "Release date": "July 12, 1967 (1967-07-12)",
     "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,000,000 (US/ Canada)[2]"
+    "Box office": "$4,000,000 (US/ Canada)"
   },
   {
     "title": "The Jungle Book",
     "Directed by": "Wolfgang Reitherman",
     "Produced by": "Walt Disney",
-    "Story by": "Bill Peet (uncredited)[1]",
+    "Story by": "Bill Peet (uncredited)",
     "Based on": "The Jungle Bookby Rudyard Kipling",
     "Starring": "Bruce Reitherman",
     "Narrated by": "Sebastian Cabot",
@@ -1430,7 +1430,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$4 million",
-    "Box office": "$378 million[2]"
+    "Box office": "$378 million"
   },
   {
     "title": "Charlie, the Lonesome Cougar",
@@ -1466,8 +1466,8 @@
     "Running time": "164 minutes(Los Angeles premiere)144 minutes(New York City premiere)118 minutes(General release)172 minutes(Director's Cut)",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million[1]",
-    "Box office": "$5 million (US/ Canada rentals)[2]"
+    "Budget": "$5 million",
+    "Box office": "$5 million (US/ Canada rentals)"
   },
   {
     "title": "Blackbeard's Ghost",
@@ -1485,7 +1485,7 @@
     "Running time": "106 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$21,540,050[1]"
+    "Box office": "$21,540,050"
   },
   {
     "title": "The One and Only, Genuine, Original Family Band",
@@ -1504,7 +1504,7 @@
     "Running time": "110 min.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2,250,000 (US/ Canada)[1]"
+    "Box office": "$2,250,000 (US/ Canada)"
   },
   {
     "title": "Never a Dull Moment",
@@ -1521,7 +1521,7 @@
     "Running time": "99 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,150,000 (US/ Canada rentals)[1]"
+    "Box office": "$4,150,000 (US/ Canada rentals)"
   },
   {
     "title": "The Horse in the Gray Flannel Suit",
@@ -1538,7 +1538,7 @@
     "Running time": "113 mins.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3.3 million  (US/ Canada rentals)[1]"
+    "Box office": "$3.3 million  (US/ Canada rentals)"
   },
   {
     "title": "The Love Bug",
@@ -1556,8 +1556,8 @@
     "Running time": "108 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million[1]",
-    "Box office": "$51,264,000[2]"
+    "Budget": "$5 million",
+    "Box office": "$51,264,000"
   },
   {
     "title": "Rascal",
@@ -1572,7 +1572,7 @@
     "Edited by": "Norman R. Palmer",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 11, 1969 (1969-06-11)",
+    "Release date": "June11,1969(1969-06-11)",
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English"
@@ -1592,7 +1592,7 @@
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$5.5 million (US/ Canada rentals)[1]"
+    "Box office": "$5.5 million (US/ Canada rentals)"
   },
   {
     "title": "King of the Grizzlies",
@@ -1624,11 +1624,11 @@
     "Edited by": "Cotton Warburton",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 1, 1970 (1970-07-01)",
+    "Release date": "July1,1970(1970-07-01)",
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$18,607,492[1]"
+    "Box office": "$18,607,492"
   },
   {
     "title": "The Wild Country",
@@ -1645,7 +1645,7 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4 million (rentals) (US/Canada)[2]"
+    "Box office": "$4 million (rentals) (US/Canada)"
   },
   {
     "title": "The Aristocats",
@@ -1662,8 +1662,8 @@
     "Running time": "79 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$4 million[1]",
-    "Box office": "$191 million[2]"
+    "Budget": "$4 million",
+    "Box office": "$191 million"
   },
   {
     "title": "The Barefoot Executive",
@@ -1678,7 +1678,7 @@
     "Edited by": "Robert Stafford",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 17, 1971 (1971)",
+    "Release date": "March 17, 1971(1971)",
     "Running time": "96 minutes",
     "Country": "United States",
     "Language": "English"
@@ -1714,7 +1714,7 @@
     "Running time": "89 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$5.1 million (North America) (rentals)[1]"
+    "Box office": "$5.1 million (North America) (rentals)"
   },
   {
     "title": "Bedknobs and Broomsticks",
@@ -1730,10 +1730,10 @@
     "Distributed by": "Buena Vista Distribution",
     "Release date": "December 13, 1971 (1971-12-13) (United States)",
     "Running time": "118 minutes (1971 original version)139 minutes (1996 reconstruction version)",
-    "Country": "United States[1][2]",
+    "Country": "United States",
     "Language": "English",
-    "Budget": "$6.3 million[3]",
-    "Box office": "$17.9 million[4]"
+    "Budget": "$6.3 million",
+    "Box office": "$17.9 million"
   },
   {
     "title": "The Biscuit Eater",
@@ -1764,11 +1764,11 @@
     "Edited by": "Cotton Warburton",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 12, 1972 (1972-07-12)",
+    "Release date": "July12,1972(1972-07-12)",
     "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,610,000 (US/Canada) (rentals)[1]"
+    "Box office": "$4,610,000 (US/Canada) (rentals)"
   },
   {
     "title": "Napoleon and Samantha",
@@ -1819,7 +1819,7 @@
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6,100,000 (US/ Canada rentals)[1]"
+    "Box office": "$6,100,000 (US/ Canada rentals)"
   },
   {
     "title": "The World's Greatest Athlete",
@@ -1831,11 +1831,11 @@
     "Cinematography": "Frank V. Phillips",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 1, 1973[1]",
+    "Release date": "February 1, 1973",
     "Running time": "93 min.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22,583,370[2]"
+    "Box office": "$22,583,370"
   },
   {
     "title": "Charley and the Angel",
@@ -1867,7 +1867,7 @@
     "Release date": "June 20, 1973 (1973-06-20)",
     "Running time": "90 Minutes",
     "Country": "United States",
-    "Language": "English[1]",
+    "Language": "English",
     "Box office": "$2 million"
   },
   {
@@ -1885,8 +1885,8 @@
     "Running time": "83 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million[1]",
-    "Box office": "$32 million[2]"
+    "Budget": "$5 million",
+    "Box office": "$32 million"
   },
   {
     "title": "Superdad",
@@ -1903,7 +1903,7 @@
     "Running time": "96 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$7 million (US/Canada rentals)[1]"
+    "Box office": "$7 million (US/Canada rentals)"
   },
   {
     "title": "Herbie Rides Again",
@@ -1922,7 +1922,7 @@
     "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$38,229,000 (US/Canada gross)[1]$30.8 million (worldwide rentals)"
+    "Box office": "$38,229,000 (US/Canada gross)$30.8 million (worldwide rentals)"
   },
   {
     "title": "The Bears and I",
@@ -1941,7 +1941,7 @@
     "Running time": "89 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4 million (rentals) (US/Canada)[1]"
+    "Box office": "$4 million (rentals) (US/Canada)"
   },
   {
     "title": "The Castaway Cowboy",
@@ -1974,14 +1974,14 @@
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6.6 million (US/Canada rentals)[1]"
+    "Box office": "$6.6 million (US/Canada rentals)"
   },
   {
     "title": "One of Our Dinosaurs is Missing",
     "Directed by": "Robert Stevenson",
     "Produced by": "Bill Walsh",
     "Written by": "Bill Walsh",
-    "Based on": "The Great Dinosaur Robbery by David Forrest",
+    "Based on": "The Great Dinosaur Robberyby David Forrest",
     "Starring": "Peter UstinovHelen HayesClive RevillDerek Nimmo",
     "Music by": "Ron Goodwin",
     "Cinematography": "Paul Beeson",
@@ -1992,7 +1992,7 @@
     "Running time": "100 minutes",
     "Country": "United KingdomUnited States",
     "Language": "English",
-    "Box office": "$5.5 million (North American rentals)[1]"
+    "Box office": "$5.5 million (North American rentals)"
   },
   {
     "title": "The Best of Walt Disney's True-Life Adventures",
@@ -2021,11 +2021,11 @@
     "Edited by": "Mike Campbell",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution (US)British Empire Films (Australia)",
-    "Release date": "December 25, 1975[1]",
+    "Release date": "December 25, 1975",
     "Running time": "91 minutes",
     "Country": "United StatesAustralia",
     "Language": "English",
-    "Budget": "AU$1 million[2]"
+    "Budget": "AU$1 million"
   },
   {
     "title": "No Deposit, No Return",
@@ -2038,7 +2038,7 @@
     "Edited by": "Cotton Warburton",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 11, 1976 (1976-02-11) (Los Angeles)[1]",
+    "Release date": "February 11, 1976 (1976-02-11) (Los Angeles)",
     "Running time": "112 minutes",
     "Country": "United States",
     "Language": "English"
@@ -2094,7 +2094,7 @@
     "Running time": "91 min.",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$10.5 million (US and Canada rentals)[1]"
+    "Box office": "$10.5 million (US and Canada rentals)"
   },
   {
     "title": "Freaky Friday",
@@ -2112,8 +2112,8 @@
     "Running time": "95 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million[1]",
-    "Box office": "$36 million[2]"
+    "Budget": "$5 million",
+    "Box office": "$36 million"
   },
   {
     "title": "Escape from the Dark",
@@ -2179,8 +2179,8 @@
     "Running time": "77 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$7.5 million[1]",
-    "Box office": "$169 million[2]"
+    "Budget": "$7.5 million",
+    "Box office": "$169 million"
   },
   {
     "title": "Herbie Goes to Monte Carlo",
@@ -2198,7 +2198,7 @@
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$29 million[1]"
+    "Box office": "$29 million"
   },
   {
     "title": "Pete's Dragon",
@@ -2216,8 +2216,8 @@
     "Running time": "128 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$10 million[1]",
-    "Box office": "$36[1]–39.6 million[2]"
+    "Budget": "$10 million",
+    "Box office": "$36–39.6 million"
   },
   {
     "title": "Candleshoe",
@@ -2231,7 +2231,7 @@
     "Edited by": "Peter Boita",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 16, 1977 (1977-12-16)",
+    "Release date": "December16,1977(1977-12-16)",
     "Running time": "101 minutes",
     "Country": "United States",
     "Language": "English"
@@ -2247,11 +2247,11 @@
     "Edited by": "Cotton Warburton",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 30, 1978 (1978-06-30) (New York)[1]",
+    "Release date": "June 30, 1978 (1978-06-30) (New York)",
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$3.5 to 4 million[2]"
+    "Budget": "$3.5 to 4 million"
   },
   {
     "title": "Hot Lead and Cold Feet",
@@ -2265,7 +2265,7 @@
     "Edited by": "Ray de Leuw",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 5, 1978 (1978-07-05)",
+    "Release date": "July5,1978(1978-07-05)",
     "Running time": "90 minutes",
     "Country": "United States",
     "Language": "English"
@@ -2281,7 +2281,7 @@
     "Edited by": "Gordon D. Brenner",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 9, 1979 (1979-02-09)",
+    "Release date": "February9,1979(1979-02-09)",
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English"
@@ -2301,7 +2301,7 @@
     "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$20,931,111[1]"
+    "Box office": "$20,931,111"
   },
   {
     "title": "Unidentified Flying Oddball",
@@ -2315,11 +2315,11 @@
     "Edited by": "Peter Boita",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 19, 1979 (London)[1]August 3, 1979 (Los Angeles)[1]",
+    "Release date": "July 19, 1979 (London)August 3, 1979 (Los Angeles)",
     "Running time": "93 minutes",
-    "Country": "United KingdomUnited States[1]",
+    "Country": "United KingdomUnited States",
     "Language": "English",
-    "Budget": "$5.25 million[2]"
+    "Budget": "$5.25 million"
   },
   {
     "title": "The Black Hole",
@@ -2338,7 +2338,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$20 million",
-    "Box office": "$35.8 million(domestic)[1]"
+    "Box office": "$35.8 million(domestic)"
   },
   {
     "title": "The Omega Connection",
@@ -2372,8 +2372,8 @@
     "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$9 million[1]",
-    "Box office": "$5 million[2]"
+    "Budget": "$9 million",
+    "Box office": "$5 million"
   },
   {
     "title": "Herbie Goes Bananas",
@@ -2391,7 +2391,7 @@
     "Running time": "98 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$18 million[2]"
+    "Box office": "$18 million"
   },
   {
     "title": "The Last Flight of Noah's Ark",
@@ -2405,12 +2405,12 @@
     "Edited by": "Gordon D. Brenner",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 9, 1980 (1980-07-09) (Los Angeles)[2]",
+    "Release date": "July 9, 1980 (1980-07-09) (Los Angeles)",
     "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$6-8 million[3]",
-    "Box office": "$11 million[4]"
+    "Budget": "$6-8 million",
+    "Box office": "$11 million"
   },
   {
     "title": "Popeye",
@@ -2428,8 +2428,8 @@
     "Running time": "114 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$20 million[1]",
-    "Box office": "$60 million[2]"
+    "Budget": "$20 million",
+    "Box office": "$60 million"
   },
   {
     "title": "Amy",
@@ -2442,7 +2442,7 @@
     "Edited by": "Gregg McLaughlin",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 20, 1981 (1981-03-20)",
+    "Release date": "March20,1981(1981-03-20)",
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English"
@@ -2462,7 +2462,7 @@
     "Running time": "109 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$18 million[1]",
+    "Budget": "$18 million",
     "Box office": "$14.1 million"
   },
   {
@@ -2480,15 +2480,15 @@
     "Running time": "83 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$12 million[1]",
-    "Box office": "$63.5 million[2]"
+    "Budget": "$12 million",
+    "Box office": "$63.5 million"
   },
   {
     "title": "Condorman",
     "Directed by": "Charles Jarrott",
     "Produced by": "Jan Williams",
     "Written by": "Mickey RoseMarc Stirdivant",
-    "Based on": "The Game of Xby Robert Sheckley[1]",
+    "Based on": "The Game of Xby Robert Sheckley",
     "Starring": "Dana Elcar",
     "Music by": "Henry Mancini",
     "Cinematography": "Charles F. Wheeler",
@@ -2511,11 +2511,11 @@
     "Edited by": "Gordon D. Brenner",
     "Productioncompany ": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 5, 1982 (1982-02-05)",
+    "Release date": "February5,1982(1982-02-05)",
     "Running time": "107 minutes",
     "Country": "United KingdomUnited States",
     "Language": "English",
-    "Box office": "$8 million[1]"
+    "Box office": "$8 million"
   },
   {
     "title": "Tron",
@@ -2534,7 +2534,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "US$17 million",
-    "Box office": "US$50 million[1]"
+    "Box office": "US$50 million"
   },
   {
     "title": "Tex",
@@ -2548,12 +2548,12 @@
     "Edited by": "Howard E. Smith",
     "Productioncompany ": "Walt Disney Productions (promoted under the auspices of Touchstone Films)",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 30, 1982 (1982-07-30)",
+    "Release date": "July30,1982(1982-07-30)",
     "Running time": "103 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million[1]",
-    "Box office": "$7.4 million[2]"
+    "Budget": "$5 million",
+    "Box office": "$7.4 million"
   },
   {
     "title": "Trenchcoat",
@@ -2571,7 +2571,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "unknown",
-    "Box office": "$4,304,286 (US)[1]"
+    "Box office": "$4,304,286 (US)"
   },
   {
     "title": "Never Cry Wolf",
@@ -2609,7 +2609,7 @@
     "Running time": "113 minutes",
     "Country": "United StatesUnited Kingdom",
     "Language": "English",
-    "Budget": "$28 million[1]",
+    "Budget": "$28 million",
     "Box office": "$11.1 million (USA)"
   },
   {
@@ -2622,14 +2622,14 @@
     "Narrated by": "John Huston",
     "Music by": "Elmer Bernstein",
     "Edited by": "Jeffrey Katzenberg",
-    "Productioncompany ": "Walt Disney Pictures[1]Walt Disney Feature Animation[2]Silver Screen Partners II[1]",
-    "Distributed by": "Buena Vista Distribution[1]",
-    "Release date": "July 26, 1985 (1985-07-26)[3]",
-    "Running time": "80 minutes[4]",
+    "Productioncompany ": "Walt Disney PicturesWalt Disney Feature AnimationSilver Screen Partners II",
+    "Distributed by": "Buena Vista Distribution",
+    "Release date": "July 26, 1985 (1985-07-26)",
+    "Running time": "80 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$44 million[5][6]",
-    "Box office": "$21.3 million[3]"
+    "Budget": "$44 million",
+    "Box office": "$21.3 million"
   },
   {
     "title": "The Journey of Natty Gann",
@@ -2646,7 +2646,7 @@
     "Running time": "101 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$9.7 million (U.S. and Canada only)[1]"
+    "Box office": "$9.7 million (U.S. and Canada only)"
   },
   {
     "title": "One Magic Christmas",
@@ -2664,7 +2664,7 @@
     "Running time": "89 minutes",
     "Country": "United StatesCanada",
     "Language": "English",
-    "Box office": "$13 million [1]"
+    "Box office": "$13 million "
   },
   {
     "title": "The Great Mouse Detective",
@@ -2680,8 +2680,8 @@
     "Running time": "74 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$14 million[1]",
-    "Box office": "$38.7 million[1]"
+    "Budget": "$14 million",
+    "Box office": "$38.7 million"
   },
   {
     "title": "Flight of the Navigator",
@@ -2694,12 +2694,12 @@
     "Cinematography": "Eric McGraw (uncredited)",
     "Edited by": "Janice Parker",
     "Productioncompany ": "Viking Film AS",
-    "Distributed by": "NA Buena Vista Distribution[1][a]",
+    "Distributed by": "NA Buena Vista Distribution[a]",
     "Release date": "August 1, 1986 (1986-08-01)",
     "Running time": "90 minutes",
     "Country": "United StatesNorway",
     "Language": "English",
-    "Budget": "$9 million[4]",
+    "Budget": "$9 million",
     "Box office": "$18,564,613"
   },
   {
@@ -2734,7 +2734,7 @@
     "Running time": "110 minutes",
     "Country": "Australia",
     "Language": "English",
-    "Budget": "A$8.7 million[1]",
+    "Budget": "A$8.7 million",
     "Box office": "$13,687,027"
   },
   {
@@ -2750,11 +2750,11 @@
     "Productioncompany ": "Walt Disney Pictures Silver Screen Partners III",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "June 23, 1989 (1989-06-23)",
-    "Running time": "93 minutes[1]",
+    "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$18 million[citation needed]",
-    "Box office": "$222.7 million[1]"
+    "Box office": "$222.7 million"
   },
   {
     "title": "Cheetah",
@@ -2769,12 +2769,12 @@
     "Edited by": "Eric Albertson",
     "Productioncompany ": "Walt Disney PicturesSilver Screen Partners III",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "August 18, 1989 (1989-08-18)",
+    "Release date": "August18,1989(1989-08-18)",
     "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
-    "Box office": "$8,153,677 (United States)[1]"
+    "Box office": "$8,153,677 (United States)"
   },
   {
     "title": "The Little Mermaid",
@@ -2788,11 +2788,11 @@
     "Productioncompanies ": "Silver Screen Partners IV",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "November 17, 1989 (1989-11-17)",
-    "Running time": "83 minutes[1]",
+    "Running time": "83 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$40 million[2]",
-    "Box office": "$233 million[3]"
+    "Budget": "$40 million",
+    "Box office": "$233 million"
   },
   {
     "title": "DuckTales the Movie: Treasure of the Lost Lamp",
@@ -2803,14 +2803,14 @@
     "Starring": "Rip Taylor",
     "Music by": "David Newman",
     "Edited by": "Charles King",
-    "Productioncompanies ": "Walt Disney Animation France[3]",
-    "Distributed by": "Buena Vista Pictures Distribution[2]",
+    "Productioncompanies ": "Walt Disney Animation France",
+    "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "August 3, 1990 (1990-08-03)",
-    "Running time": "69 minutes[2]",
-    "Country": "United States[2][4]",
+    "Running time": "69 minutes",
+    "Country": "United States",
     "Language": "English",
-    "Budget": "$20 million[2]",
-    "Box office": "$18.1 million[5]"
+    "Budget": "$20 million",
+    "Box office": "$18.1 million"
   },
   {
     "title": "The Rescuers Down Under",
@@ -2827,7 +2827,7 @@
     "Running time": "77 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$47.4 million[1]"
+    "Box office": "$47.4 million"
   },
   {
     "title": "White Fang",
@@ -2845,8 +2845,8 @@
     "Running time": "107 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$14 million[1]",
-    "Box office": "$34.8 million[1]"
+    "Budget": "$14 million",
+    "Box office": "$34.8 million"
   },
   {
     "title": "Shipwrecked",
@@ -2898,11 +2898,11 @@
     "Productioncompanies ": "Gordon Company",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "June 21, 1991 (1991-06-21)",
-    "Running time": "108 minutes[1]",
+    "Running time": "108 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$35-40 million[2][3]",
-    "Box office": "$46.7 million[4][3](USA)"
+    "Budget": "$35-40 million",
+    "Box office": "$46.7 million(USA)"
   },
   {
     "title": "Beauty and the Beast",
@@ -2914,14 +2914,14 @@
     "Starring": "Jesse Corti",
     "Music by": "Alan Menken",
     "Edited by": "John Carnochan",
-    "Productioncompanies ": "Silver Screen Partners IV[2]",
-    "Distributed by": "Buena Vista Pictures[2]",
+    "Productioncompanies ": "Silver Screen Partners IV",
+    "Distributed by": "Buena Vista Pictures",
     "Release date": "November 22, 1991 (1991-11-22) (United States)",
-    "Running time": "84 minutes[4]",
+    "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million[5]",
-    "Box office": "$440.1 million[5]"
+    "Budget": "$25 million",
+    "Box office": "$440.1 million"
   },
   {
     "title": "Newsies",
@@ -2935,7 +2935,7 @@
     "Productioncompany ": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "April 10, 1992 (1992-04-10)",
-    "Running time": "121 minutes[1]",
+    "Running time": "121 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$15 million",
@@ -2952,14 +2952,14 @@
     "Music by": "Bruce Broughton",
     "Cinematography": "John Hora",
     "Edited by": "Harry HitnerMichael A. Stevenson",
-    "Productioncompany ": "Walt Disney PicturesTouchwood Pacific Partners[1]",
+    "Productioncompany ": "Walt Disney PicturesTouchwood Pacific Partners",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "July 17, 1992 (1992-07-17)",
     "Running time": "89 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$40 million[citation needed]",
-    "Box office": "$58.7 million[2]"
+    "Box office": "$58.7 million"
   },
   {
     "title": "The Mighty Ducks",
@@ -2976,8 +2976,8 @@
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$14 million[1]",
-    "Box office": "$50.8 million[2]"
+    "Budget": "$14 million",
+    "Box office": "$50.8 million"
   },
   {
     "title": "Aladdin",
@@ -2995,8 +2995,8 @@
     "Running time": "90 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$28 million[4]",
-    "Box office": "$504.1 million[4]"
+    "Budget": "$28 million",
+    "Box office": "$504.1 million"
   },
   {
     "title": "The Muppet Christmas Carol",
@@ -3011,11 +3011,11 @@
     "Productioncompanies ": "Jim Henson Productions",
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "December 11, 1992 (1992-12-11)",
-    "Running time": "86 minutes[1]",
-    "Country": "United States[2]",
+    "Running time": "86 minutes",
+    "Country": "United States",
     "Language": "English",
     "Budget": "$12 million",
-    "Box office": "$27.2 million[3]"
+    "Box office": "$27.2 million"
   },
   {
     "title": "Homeward Bound: The Incredible Journey",
@@ -3029,7 +3029,7 @@
     "Edited by": "Jonathan P. Shaw",
     "Productioncompany ": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "February 3, 1993 (1993-02-03)",
+    "Release date": "February3,1993(1993-02-03)",
     "Running time": "84 minutes",
     "Country": "United States",
     "Language": "English",
@@ -3051,7 +3051,7 @@
     "Running time": "108 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$12.9 million[1]"
+    "Box office": "$12.9 million"
   },
   {
     "title": "The Adventures of Huck Finn",
@@ -3085,11 +3085,11 @@
     "Productioncompany ": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "July 16, 1993 (1993-07-16)",
-    "Running time": "96 minutes[1]",
+    "Running time": "96 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$28 million",
-    "Box office": "$44.9 million[2]"
+    "Box office": "$44.9 million"
   },
   {
     "title": "Cool Runnings",
@@ -3124,7 +3124,7 @@
     "Distributed by": "Buena Vista Pictures",
     "Release date": "November 12, 1993 (1993-11-12)",
     "Running time": "105 minutes",
-    "Country": "United StatesAustria[1]",
+    "Country": "United StatesAustria",
     "Language": "English",
     "Budget": "$30 million",
     "Box office": "$53.9 million"
@@ -3142,10 +3142,10 @@
     "Distributed by": "Buena Vista Pictures",
     "Release date": "February 11, 1994 (1994-02-11)",
     "Running time": "94 minutes",
-    "Country": "United States[1]",
+    "Country": "United States",
     "Language": "English",
     "Budget": "$13 million",
-    "Box office": "$30.6 million[2]"
+    "Box office": "$30.6 million"
   },
   {
     "title": "D2: The Mighty Ducks",
@@ -3180,7 +3180,7 @@
     "Running time": "102 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$8,878,839 (US)[1]"
+    "Box office": "$8,878,839 (US)"
   },
   {
     "title": "The Lion King",
@@ -3194,11 +3194,11 @@
     "Productioncompany ": "Walt Disney Feature Animation",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "June 15, 1994 (1994-06-15) (United States)",
-    "Running time": "88 minutes[1]",
+    "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$45 million[2]",
-    "Box office": "$988.6 million[2]"
+    "Budget": "$45 million",
+    "Box office": "$988.6 million"
   },
   {
     "title": "Squanto: A Warrior's Tale",
@@ -3215,7 +3215,7 @@
     "Running time": "102 minutes",
     "Country": "United StatesCanada",
     "Language": "English",
-    "Box office": "$3,337,685[1]"
+    "Box office": "$3,337,685"
   },
   {
     "title": "The Santa Clause",
@@ -3232,8 +3232,8 @@
     "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$22 million[1]",
-    "Box office": "$190.5 million[1]"
+    "Budget": "$22 million",
+    "Box office": "$190.5 million"
   },
   {
     "title": "Rudyard Kipling's The Jungle Book",
@@ -3246,14 +3246,14 @@
     "Music by": "Basil Poledouris",
     "Cinematography": "Juan Ruiz Anchía",
     "Edited by": "Bob Ducsay",
-    "Productioncompanies ": "Baloo ProductionsJungle Book Films[1]Walt Disney Pictures",
-    "Distributed by": "Buena Vista Pictures (North America and other select territories)MDP Worldwide (all other territories)[2]",
+    "Productioncompanies ": "Baloo ProductionsJungle Book FilmsWalt Disney Pictures",
+    "Distributed by": "Buena Vista Pictures (North America and other select territories)MDP Worldwide (all other territories)",
     "Release date": "December 25, 1994 (1994-12-25)",
-    "Running time": "111 minutes[3]",
+    "Running time": "111 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million[4]",
-    "Box office": "$43.2 million[5]"
+    "Budget": "$30 million",
+    "Box office": "$43.2 million"
   },
   {
     "title": "Heavyweights",
@@ -3270,7 +3270,7 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$17.6 million[1]"
+    "Box office": "$17.6million"
   },
   {
     "title": "Man of the House",
@@ -3298,17 +3298,17 @@
     "Produced by": "Dan Rounds",
     "Screenplay by": "Jymn MagonChris MathesonBrian Pimental",
     "Story by": "Jymn Magon",
-    "Based on": "Michael Peraza Jr.[1][2]",
+    "Based on": "Michael Peraza Jr.",
     "Starring": "Herschel Sparber",
     "Music by": "Don Davis",
     "Edited by": "Gregory Perler",
-    "Productioncompanies ": "Disney MovieToons[4][a]",
-    "Distributed by": "Buena Vista Pictures Distribution[3]",
-    "Release date": "April 7, 1995 (1995-04-07)[3]",
-    "Running time": "78 minutes[5]",
-    "Country": "United States[3]",
+    "Productioncompanies ": "Disney MovieToons[a]",
+    "Distributed by": "Buena Vista Pictures Distribution",
+    "Release date": "April 7, 1995 (1995-04-07)",
+    "Running time": "78 minutes",
+    "Country": "United States",
     "Language": "English",
-    "Box office": "$35.3 million[6]"
+    "Box office": "$35.3 million"
   },
   {
     "title": "Pocahontas",
@@ -3323,11 +3323,11 @@
     "Productioncompany ": "Walt Disney Feature Animation",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "June 23, 1995 (1995-06-23)",
-    "Running time": "81 minutes[1]",
+    "Running time": "81 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$55 million[2]",
-    "Box office": "$346.1 million[1]"
+    "Budget": "$55 million",
+    "Box office": "$346.1 million"
   },
   {
     "title": "Operation Dumbo Drop",
@@ -3345,7 +3345,7 @@
     "Running time": "108 minutes",
     "Language": "EnglishVietnamese",
     "Budget": "$24 million[citation needed]",
-    "Box office": "$24,670,346[1]"
+    "Box office": "$24,670,346"
   },
   {
     "title": "A Kid in King Arthur's Court",
@@ -3362,7 +3362,7 @@
     "Running time": "89 minutes",
     "Language": "English",
     "Budget": "$15 million",
-    "Box office": "$13.4 million (domestic)[1]"
+    "Box office": "$13.4 million (domestic)"
   },
   {
     "title": "The Big Green",
@@ -3410,11 +3410,11 @@
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "November 22, 1995 (1995-11-22) (United States)",
-    "Running time": "81 minutes[1]",
+    "Running time": "81 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million[2]",
-    "Box office": "$404.8 million[3]"
+    "Budget": "$30million",
+    "Box office": "$404.8million"
   },
   {
     "title": "Tom and Huck",
@@ -3432,7 +3432,7 @@
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$23.9 million[1]"
+    "Box office": "$23.9 million"
   },
   {
     "title": "Muppet Treasure Island",
@@ -3451,7 +3451,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$31 million",
-    "Box office": "$34.3 million (North America)[1]"
+    "Box office": "$34.3 million (North America)"
   },
   {
     "title": "James and the Giant Peach",
@@ -3464,13 +3464,13 @@
     "Cinematography": "Pete KozachikHiro Narita",
     "Edited by": "Stan Webb",
     "Productioncompany ": "Walt Disney PicturesAllied FilmmakersSkellington Productions",
-    "Distributed by": "Buena Vista Pictures (Global)Guild Film Distribution[1] (United Kingdom)",
+    "Distributed by": "Buena Vista Pictures (Global)Guild Film Distribution (United Kingdom)",
     "Release date": "August 2, 1996 (1996-08-02) (United Kingdom)",
     "Running time": "79 minutes",
     "Country": "United KingdomUnited States",
     "Language": "English",
     "Budget": "$38 million",
-    "Box office": "$28.9 million (U.S.)[2]"
+    "Box office": "$28.9 million (U.S.)"
   },
   {
     "title": "D3: The Mighty Ducks",
@@ -3489,7 +3489,7 @@
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22.9 million[1]"
+    "Box office": "$22.9 million"
   },
   {
     "title": "101 Dalmatians",
@@ -3501,14 +3501,14 @@
     "Music by": "Michael Kamen",
     "Cinematography": "Adrian Biddle",
     "Edited by": "Trudy Ship",
-    "Productioncompany ": "Great Oaks Entertainment[2]",
-    "Distributed by": "Buena Vista Pictures Distribution\n[1]",
+    "Productioncompany ": "Great Oaks Entertainment",
+    "Distributed by": "Buena Vista Pictures Distribution\n",
     "Release date": "November 27, 1996 (1996-11-27)",
-    "Running time": "103 minutes[3]",
+    "Running time": "103 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$75 million[4]",
-    "Box office": "$320.7 million[3]"
+    "Budget": "$75 million",
+    "Box office": "$320.7 million"
   },
   {
     "title": "That Darn Cat",
@@ -3524,10 +3524,10 @@
     "Productioncompany ": "Walt Disney PicturesRobert Simonds Productions",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "February 14, 1997 (1997-02-14)",
-    "Running time": "86 minutes[2]",
+    "Running time": "86 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$18.3 million[3]"
+    "Box office": "$18.3 million"
   },
   {
     "title": "Jungle 2 Jungle",
@@ -3560,11 +3560,11 @@
     "Productioncompanies ": "Walt Disney Feature Animation",
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "June 27, 1997 (1997-06-27) (wide release)",
-    "Running time": "93 minutes[2]",
+    "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$85 million[3]",
-    "Box office": "$252.7 million[3]"
+    "Budget": "$85million",
+    "Box office": "$252.7million"
   },
   {
     "title": "George of the Jungle",
@@ -3583,7 +3583,7 @@
     "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$55 million[1]",
+    "Budget": "$55 million",
     "Box office": "$174.4 million"
   },
   {
@@ -3596,14 +3596,14 @@
     "Music by": "Brahm Wenger",
     "Cinematography": "Mike Southon",
     "Edited by": "Alison Grace",
-    "Productioncompany ": "Buddy Films, Inc.[1]",
-    "Distributed by": "Buena Vista Pictures Distribution[1] (United States)Malofilm (Canada)",
+    "Productioncompany ": "Buddy Films, Inc.",
+    "Distributed by": "Buena Vista Pictures Distribution (United States)Malofilm (Canada)",
     "Release date": "August 1, 1997",
     "Running time": "98 minutes",
     "Country": "United StatesCanada",
     "Language": "English",
     "Budget": "$3 million",
-    "Box office": "$27.8 million[2]"
+    "Box office": "$27.8 million"
   },
   {
     "title": "Mr. Magoo",
@@ -3622,7 +3622,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
-    "Box office": "$28.9 million[1]"
+    "Box office": "$28.9 million"
   },
   {
     "title": "Mulan",
@@ -3640,8 +3640,8 @@
     "Running time": "87 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90 million[1]",
-    "Box office": "$304.3 million[2]"
+    "Budget": "$90 million",
+    "Box office": "$304.3 million"
   },
   {
     "title": "The Parent Trap",
@@ -3656,11 +3656,11 @@
     "Productioncompany ": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "July 29, 1998 (1998-07-29) (United States)",
-    "Running time": "128 minutes[1]",
-    "Country": "United States[2][3]",
+    "Running time": "128 minutes",
+    "Country": "United States",
     "Language": "English",
-    "Budget": "$15 million[4]",
-    "Box office": "$92.1 million[5]"
+    "Budget": "$15 million",
+    "Box office": "$92.1 million"
   },
   {
     "title": "I'll Be Home for Christmas",
@@ -3678,8 +3678,8 @@
     "Running time": "86 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million[1]",
-    "Box office": "$12.2 million[1]"
+    "Budget": "$30 million",
+    "Box office": "$12.2 million"
   },
   {
     "title": "A Bug's Life",
@@ -3693,12 +3693,12 @@
     "Edited by": "Lee Unkrich",
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": "November 20, 1998 (1998-11-20)[1]",
-    "Running time": "95 minutes[2]",
+    "Release date": "November 20, 1998 (1998-11-20)",
+    "Running time": "95 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$120 million[1]",
-    "Box office": "$363.3 million[1]"
+    "Budget": "$120million",
+    "Box office": "$363.3million"
   },
   {
     "title": "Mighty Joe Young",
@@ -3716,8 +3716,8 @@
     "Running time": "114 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90 million[1]",
-    "Box office": "$50.6 million (US)[1]"
+    "Budget": "$90 million",
+    "Box office": "$50.6 million (US)"
   },
   {
     "title": "My Favorite Martian",
@@ -3735,8 +3735,8 @@
     "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$65 million[1]",
-    "Box office": "$36.8 million[1]"
+    "Budget": "$65 million",
+    "Box office": "$36.8 million"
   },
   {
     "title": "Endurance",
@@ -3765,12 +3765,12 @@
     "Edited by": "Gregory Perler",
     "Productioncompanies ": "Walt Disney Feature Animation",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "June 16, 1999 (1999-06-16) (United States[1])",
-    "Running time": "88 minutes[2]",
+    "Release date": "June 16, 1999 (1999-06-16) (United States)",
+    "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$130 million[1]",
-    "Box office": "$448.2 million[1]"
+    "Budget": "$130 million",
+    "Box office": "$448.2 million"
   },
   {
     "title": "Inspector Gadget",
@@ -3784,13 +3784,13 @@
     "Cinematography": "Adam Greenberg",
     "Edited by": "Thom Noble",
     "Productioncompanies ": "Roger Birnbaum Productions",
-    "Distributed by": "Buena Vista Pictures Distribution[1]",
+    "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "July 23, 1999 (1999-07-23)",
-    "Running time": "78 minutes[2]",
+    "Running time": "78 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90 million[3]",
-    "Box office": "$134.4 million[3]"
+    "Budget": "$90 million",
+    "Box office": "$134.4 million"
   },
   {
     "title": "Toy Story 2",
@@ -3805,11 +3805,11 @@
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "November 24, 1999 (1999-11-24) (United States)",
-    "Running time": "92 minutes[2]",
+    "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90 million[3]",
-    "Box office": "$497.4 million[3]"
+    "Budget": "$90million",
+    "Box office": "$497.4million"
   },
   {
     "title": "Fantasia 2000",
@@ -3826,8 +3826,8 @@
     "Running time": "74 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$80–$85 million[1][2]",
-    "Box office": "$90.9 million[1]"
+    "Budget": "$80–$85 million",
+    "Box office": "$90.9 million"
   },
   {
     "title": "Dinosaur",
@@ -3842,11 +3842,11 @@
     "Productioncompany ": "The Secret Lab",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "May 19, 2000 (2000-05-19) (United States)",
-    "Running time": "82 minutes[1]",
+    "Running time": "82 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$127.5 million[1]",
-    "Box office": "$349.8 million[1]"
+    "Budget": "$127.5 million",
+    "Box office": "$349.8 million"
   },
   {
     "title": "The Kid",
@@ -3860,11 +3860,11 @@
     "Productioncompany ": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "July 7, 2000 (2000-07-07)",
-    "Running time": "104 minutes[1]",
+    "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$65 million[2]",
-    "Box office": "$110.3 million[2]"
+    "Budget": "$65 million",
+    "Box office": "$110.3 million"
   },
   {
     "title": "Remember The Titans",
@@ -3881,8 +3881,8 @@
     "Running time": "113 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million[1]",
-    "Box office": "$136.7 million[1]"
+    "Budget": "$30 million",
+    "Box office": "$136.7 million"
   },
   {
     "title": "102 Dalmatians",
@@ -3901,7 +3901,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$85 million",
-    "Box office": "$183.6 million[1]"
+    "Box office": "$183.6 million"
   },
   {
     "title": "The Emperor's New Groove",
@@ -3919,8 +3919,8 @@
     "Running time": "78 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$100 million",
-    "Box office": "$169.3 million"
+    "Budget": "$100million",
+    "Box office": "$169.3million"
   },
   {
     "title": "Recess: School's Out",
@@ -3935,11 +3935,11 @@
     "Productioncompany ": "Sunwoo AnimationSunwoo Digital International",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "February 16, 2001 (2001-02-16) (United States)",
-    "Running time": "83 minutes[1]",
+    "Running time": "83 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$23 million[2]",
-    "Box office": "$44.5 million[2]"
+    "Budget": "$23 million",
+    "Box office": "$44.5 million"
   },
   {
     "title": "Atlantis: The Lost Empire",
@@ -3953,11 +3953,11 @@
     "Productioncompany ": "Walt Disney Feature Animation",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "June 15, 2001 (2001-06-15) (United States)",
-    "Running time": "96 minutes[2]",
+    "Running time": "96 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90–120 million[2][3][4][nb 1]",
-    "Box office": "$186.1 million[4]"
+    "Budget": "$90–120 million[nb 1]",
+    "Box office": "$186.1 million"
   },
   {
     "title": "The Princess Diaries",
@@ -3972,11 +3972,11 @@
     "Productioncompany ": "BrownHouse Productions",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "August 3, 2001 (2001-08-03)",
-    "Running time": "115 minutes[1]",
+    "Running time": "115 minutes",
     "Country": "United States",
     "Language": "English",
     "Budget": "$26 million",
-    "Box office": "$165.3 million[2]"
+    "Box office": "$165.3 million"
   },
   {
     "title": "Max Keeble's Big Move",
@@ -3993,8 +3993,8 @@
     "Running time": "86 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million[1]",
-    "Box office": "$18.6 million[1]"
+    "Budget": "$25 million",
+    "Box office": "$18.6 million"
   },
   {
     "title": "Monsters, Inc.",
@@ -4008,11 +4008,11 @@
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "November 2, 2001 (2001-11-02) (United States)",
-    "Running time": "92 minutes[1]",
+    "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$115 million[1]",
-    "Box office": "$577.4 million[1]"
+    "Budget": "$115million",
+    "Box office": "$577.4million"
   },
   {
     "title": "Return to Never Land",
@@ -4024,14 +4024,14 @@
     "Narrated by": "Clive Revill",
     "Music by": "They Might Be Giants (Songs)",
     "Edited by": "Antonio F. Rocco",
-    "Productioncompany ": "Walt Disney Television Animation[1]",
+    "Productioncompany ": "Walt Disney Television Animation",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "February 15, 2002 (2002-02-15) (United States)",
-    "Running time": "73 minutes[2]",
-    "Country": "United States[2]",
+    "Running time": "73 minutes",
+    "Country": "United States",
     "Language": "English",
-    "Budget": "$20 million[3]",
-    "Box office": "$115.1 million[3]"
+    "Budget": "$20 million",
+    "Box office": "$115.1 million"
   },
   {
     "title": "The Country Bears",
@@ -4050,7 +4050,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$35 million",
-    "Box office": "$18 million[1]"
+    "Box office": "$18 million"
   },
   {
     "title": "Spirited Away",
@@ -4066,11 +4066,11 @@
     "Productioncompany ": "Studio Ghibli",
     "Distributed by": "Toho",
     "Release date": "July 20, 2001 (2001-07-20)",
-    "Running time": "125 minutes[1]",
+    "Running time": "125 minutes",
     "Country": "Japan",
     "Language": "Japanese",
-    "Budget": "¥1.9–2 billion($15–19.2 million)[2][3][4]",
-    "Box office": "$355.5 million[5]"
+    "Budget": "¥1.9–2 billion($15–19.2 million)",
+    "Box office": "$355.5 million"
   },
   {
     "title": "The Santa Clause 2",
@@ -4088,8 +4088,8 @@
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$65 million[1][2]",
-    "Box office": "$172.9 million[1]"
+    "Budget": "$65 million",
+    "Box office": "$172.9 million"
   },
   {
     "title": "Treasure Planet",
@@ -4107,8 +4107,8 @@
     "Running time": "95 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$140 million[1]",
-    "Box office": "$109.6 million[1]"
+    "Budget": "$140 million",
+    "Box office": "$109.6 million"
   },
   {
     "title": "The Jungle Book 2",
@@ -4118,14 +4118,14 @@
     "Starring": "Haley Joel OsmentJohn GoodmanMae WhitmanBob JolesTony JayPhil CollinsJohn Rhys-DaviesJim Cummings",
     "Music by": "Joel McNeely",
     "Edited by": "Christopher K. GeePeter Lonsdale",
-    "Productioncompany ": "DisneyToon Studios[1]Walt Disney Pictures[1]",
+    "Productioncompany ": "DisneyToon StudiosWalt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "February 14, 2003 (2003-02-14)",
-    "Running time": "72 minutes[2]",
+    "Running time": "72 minutes",
     "Country": "United StatesAustralia",
     "Language": "English",
-    "Budget": "$20 million[2]",
-    "Box office": "$135.7 million[2]"
+    "Budget": "$20 million",
+    "Box office": "$135.7 million"
   },
   {
     "title": "Piglet's Big Movie",
@@ -4136,14 +4136,14 @@
     "Starring": "Tom Wheatley",
     "Music by": "Carly Simon (songs)",
     "Edited by": "Ivan Bilancio",
-    "Productioncompany ": "DisneyToon Studios[1]Walt Disney Pictures[2][1]",
+    "Productioncompany ": "DisneyToon StudiosWalt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "July 2, 2003 (2003-07-02) (Manila, Philippines)",
     "Running time": "75 minutes",
-    "Country": "United States[2]",
+    "Country": "United States",
     "Language": "English",
-    "Budget": "$46 million[3]",
-    "Box office": "$62.9 million[4]"
+    "Budget": "$46million",
+    "Box office": "$62.9million"
   },
   {
     "title": "Ghosts of the Abyss",
@@ -4159,8 +4159,8 @@
     "Running time": "61 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$13 million[1]",
-    "Box office": "$28.7 million[2]"
+    "Budget": "$13 million",
+    "Box office": "$28.7 million"
   },
   {
     "title": "The Lizzie McGuire Movie",
@@ -4178,8 +4178,8 @@
     "Running time": "94 minutes",
     "Country": "United States",
     "Language": "Italian",
-    "Budget": "$17 million[1]",
-    "Box office": "$55.5 million[2]"
+    "Budget": "$17 million",
+    "Box office": "$55.5 million"
   },
   {
     "title": "Finding Nemo",
@@ -4194,11 +4194,11 @@
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "May 30, 2003 (2003-05-30)",
-    "Running time": "100 minutes[1]",
+    "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$94 million[1]",
-    "Box office": "$940.3 million[1]"
+    "Budget": "$94million",
+    "Box office": "$940.3million"
   },
   {
     "title": "Pirates of the Caribbean:The Curse of the Black Pearl",
@@ -4214,11 +4214,11 @@
     "Productioncompanies ": "Jerry Bruckheimer Films",
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "July 9, 2003 (2003-07-09) (United States)",
-    "Running time": "143 minutes[1]",
+    "Running time": "143 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$140 million[2]",
-    "Box office": "$654.3 million[2]"
+    "Budget": "$140 million",
+    "Box office": "$654.3 million"
   },
   {
     "title": "Freaky Friday",
@@ -4236,8 +4236,8 @@
     "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$26 million[1]",
-    "Box office": "$160.8 million[2]"
+    "Budget": "$26 million",
+    "Box office": "$160.8 million"
   },
   {
     "title": "Brother Bear",
@@ -4255,8 +4255,8 @@
     "Running time": "85 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$46 million[1]",
-    "Box office": "$250.4 million[2]"
+    "Budget": "$46 million",
+    "Box office": "$250.4 million"
   },
   {
     "title": "The Haunted Mansion",
@@ -4271,11 +4271,11 @@
     "Productioncompany ": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "November 26, 2003 (2003-11-26)",
-    "Running time": "86 minutes[1]",
+    "Running time": "86 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90 million[2]",
-    "Box office": "$182.3 million[2]"
+    "Budget": "$90 million",
+    "Box office": "$182.3 million"
   },
   {
     "title": "The Young Black Stallion",
@@ -4310,7 +4310,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$10 million",
-    "Box office": "$6.5 million[1]"
+    "Box office": "$6.5 million"
   },
   {
     "title": "Miracle",
@@ -4327,8 +4327,8 @@
     "Running time": "136 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$28 million[1]",
-    "Box office": "$64.5 million[1]"
+    "Budget": "$28 million",
+    "Box office": "$64.5 million"
   },
   {
     "title": "Confessions of a TeenageDrama Queen",
@@ -4347,7 +4347,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$15 million",
-    "Box office": "$33.1 million[1]"
+    "Box office": "$33.1 million"
   },
   {
     "title": "Home on the Range",
@@ -4364,12 +4364,12 @@
     "Running time": "76 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$110 million[1]",
-    "Box office": "$145.5 million[1]"
+    "Budget": "$110 million",
+    "Box office": "$145.5 million"
   },
   {
     "title": "Sacred Planet",
-    "Directed by": "Jon Long[1]Hairul Salleh Askor",
+    "Directed by": "Jon LongHairul Salleh Askor",
     "Produced by": "Jon LongKaren Fernandez Long",
     "Written by": "Karen Fernandez LongJon Long",
     "Starring": "Arapata McKayTsaan CiqaeMae TuiCy Peck Jr.Mutang Urud",
@@ -4397,11 +4397,11 @@
     "Productioncompany ": "Walt Disney PicturesWalden MediaSpanknyce FilmsMostow/Lieberman Productions",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "June 16, 2004 (2004-06-16) (United States)",
-    "Running time": "120 minutes[1]",
+    "Running time": "120 minutes",
     "Country": "United Kingdom",
     "Language": "English  French  Mandarin Chinese  Hindi",
-    "Budget": "$110 million[1]",
-    "Box office": "$72.2 million[1]"
+    "Budget": "$110 million",
+    "Box office": "$72.2 million"
   },
   {
     "title": "America's Heart and Soul",
@@ -4432,11 +4432,11 @@
     "Productioncompanies ": "Martin Chase Productions",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "August 11, 2004 (2004-08-11)",
-    "Running time": "113 minutes[1]",
+    "Running time": "113 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$45 million[2]",
-    "Box office": "$134.7 million[3]"
+    "Budget": "$45 million",
+    "Box office": "$134.7 million"
   },
   {
     "title": "The Incredibles",
@@ -4447,14 +4447,14 @@
     "Music by": "Michael Giacchino",
     "Cinematography": "Janet Lucroy",
     "Edited by": "Stephen Schaffer",
-    "Productioncompanies ": "Pixar Animation Studios[1]",
-    "Distributed by": "Buena Vista Pictures Distribution[1]",
+    "Productioncompanies ": "Pixar Animation Studios",
+    "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "November 5, 2004 (2004-11-05) (United States)",
-    "Running time": "115 minutes[2]",
+    "Running time": "115 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$92 million[3]",
-    "Box office": "$633 million[3]"
+    "Budget": "$92million",
+    "Box office": "$633million"
   },
   {
     "title": "National Treasure",
@@ -4472,12 +4472,12 @@
     "Running time": "131 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$100 million[1]",
-    "Box office": "$347.5 million[1]"
+    "Budget": "$100 million",
+    "Box office": "$347.5 million"
   },
   {
     "title": "Aliens of the Deep",
-    "Directed by": "Steven Quale[1]",
+    "Directed by": "Steven Quale",
     "Produced by": "Andrew Wight",
     "Starring": "Dijanna Figueroa",
     "Music by": "Jeehun Hwang",
@@ -4486,10 +4486,10 @@
     "Productioncompany ": "Earthship Productions",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "January 28, 2005 (2005-01-28)",
-    "Running time": "100 minutes[2]",
+    "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$9 million[2]"
+    "Box office": "$9 million"
   },
   {
     "title": "Pooh's Heffalump Movie",
@@ -4499,14 +4499,14 @@
     "Based on": "Characters created by A. A. Milne",
     "Starring": "Brenda Blethyn",
     "Music by": "Joel McNeely",
-    "Productioncompany ": "Walt Disney Pictures[1]Disneytoon Studios[2]",
-    "Distributed by": "Buena Vista Pictures[2]",
-    "Release date": "February 11, 2005 (2005-02-11)[2]",
-    "Running time": "68 minutes[2]",
-    "Country": "United States[2]",
+    "Productioncompany ": "Walt Disney PicturesDisneytoon Studios",
+    "Distributed by": "Buena Vista Pictures",
+    "Release date": "February 11, 2005 (2005-02-11)",
+    "Running time": "68 minutes",
+    "Country": "United States",
     "Language": "English",
-    "Budget": "$20 million",
-    "Box office": "$52.9 million[3]"
+    "Budget": "$20million",
+    "Box office": "$52.9million"
   },
   {
     "title": "The Pacifier",
@@ -4517,14 +4517,14 @@
     "Music by": "John Debney",
     "Cinematography": "Peter James",
     "Edited by": "Christopher Greenbury",
-    "Productioncompany ": "Spyglass Entertainment[1]",
-    "Distributed by": "Buena Vista Pictures[1]",
+    "Productioncompany ": "Spyglass Entertainment",
+    "Distributed by": "Buena Vista Pictures",
     "Release date": "March 4, 2005 (2005-03-04)",
-    "Running time": "95 minutes[1]",
+    "Running time": "95 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$56 million[2]",
-    "Box office": "$198.6 million[2]"
+    "Budget": "$56 million",
+    "Box office": "$198.6 million"
   },
   {
     "title": "Ice Princess",
@@ -4542,7 +4542,7 @@
     "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million[1]",
+    "Budget": "$25 million",
     "Box office": "$27.6 million"
   },
   {
@@ -4569,22 +4569,22 @@
     "title": "Howl's Moving Castle",
     "Japanese": "ハウルの動く城",
     "Hepburn": "Hauru no Ugoku Shiro",
-    "Directed by": "Hayao Miyazaki[1]",
-    "Produced by": "Toshio Suzuki[1]",
-    "Screenplay by": "Hayao Miyazaki[2]",
-    "Based on": "Howl's Moving Castleby Diana Wynne Jones[2]",
+    "Directed by": "Hayao Miyazaki",
+    "Produced by": "Toshio Suzuki",
+    "Screenplay by": "Hayao Miyazaki",
+    "Based on": "Howl's Moving Castleby Diana Wynne Jones",
     "Starring": "Chieko BaishoTakuya KimuraAkihiro Miwa",
-    "Music by": "Joe Hisaishi[1]",
-    "Cinematography": "Atsushi Okui[1]",
-    "Edited by": "Takeshi Seyama[1]",
-    "Productioncompany ": "Studio Ghibli[1]",
-    "Distributed by": "Toho[3]",
+    "Music by": "Joe Hisaishi",
+    "Cinematography": "Atsushi Okui",
+    "Edited by": "Takeshi Seyama",
+    "Productioncompany ": "Studio Ghibli",
+    "Distributed by": "Toho",
     "Release date": "20 November 2004 (2004-11-20) (Japan)",
-    "Running time": "119 minutes[3]",
-    "Country": "Japan[2]",
-    "Language": "Japanese [2]",
+    "Running time": "119 minutes",
+    "Country": "Japan",
+    "Language": "Japanese ",
     "Budget": "¥2.4 billionUS$24 million",
-    "Box office": "¥23.2 billionUS$236 million (worldwide)[3]"
+    "Box office": "¥23.2 billionUS$236 million (worldwide)"
   },
   {
     "title": "Sky High",
@@ -4601,8 +4601,8 @@
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$35 million[2]",
-    "Box office": "$86.4 million[3]"
+    "Budget": "$35 million",
+    "Box office": "$86.4 million"
   },
   {
     "title": "Valiant",
@@ -4618,8 +4618,8 @@
     "Running time": "76 minutes",
     "Country": "United KingdomUnited States",
     "Language": "English",
-    "Budget": "$35 million[1]",
-    "Box office": "$61.7 million[1]"
+    "Budget": "$35 million",
+    "Box office": "$61.7 million"
   },
   {
     "title": "The Greatest Game Ever Played",
@@ -4637,8 +4637,8 @@
     "Running time": "120 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million[1]",
-    "Box office": "$15.4 million[1]"
+    "Budget": "$25 million",
+    "Box office": "$15.4 million"
   },
   {
     "title": "Chicken Little",
@@ -4650,14 +4650,14 @@
     "Starring": "Don Knotts",
     "Music by": "John Debney",
     "Edited by": "Dan Molina",
-    "Productioncompany ": "Walt Disney Feature Animation[2]",
+    "Productioncompany ": "Walt Disney Feature Animation",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "November 4, 2005 (2005-11-04) (United States)",
-    "Running time": "81 minutes[3]",
+    "Running time": "81 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million[4]",
-    "Box office": "$314.4 million[4]"
+    "Budget": "$150 million",
+    "Box office": "$314.4 million"
   },
   {
     "title": "The Chronicles of Narnia:The Lion, the Witch and the Wardrobe",
@@ -4673,10 +4673,10 @@
     "Distributed by": "Buena Vista Pictures",
     "Release date": "December 9, 2005 (2005-12-09) (United States)",
     "Running time": "143 minutes",
-    "Country": "United States[1]",
+    "Country": "United States",
     "Language": "English",
-    "Budget": "$180 million[2]",
-    "Box office": "$745 million[2]"
+    "Budget": "$180million",
+    "Box office": "$745million"
   },
   {
     "title": "Glory Road",
@@ -4690,12 +4690,12 @@
     "Edited by": "Jason HellmannJohn Wright",
     "Productioncompany ": "Walt Disney PicturesJerry Bruckheimer FilmsTexas Western ProductionsGlory Road Productions",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "January 13, 2006 (2006-01-13)",
-    "Running time": "106 minutes[1]",
+    "Release date": "January13,2006(2006-01-13)",
+    "Running time": "106 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million[2]",
-    "Box office": "$42.9 million[1]"
+    "Budget": "$30 million",
+    "Box office": "$42.9 million"
   },
   {
     "title": "Roving Mars",
@@ -4712,8 +4712,8 @@
     "Running time": "40 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$1 million[1]",
-    "Box office": "$11 million[2]"
+    "Budget": "$1 million",
+    "Box office": "$11 million"
   },
   {
     "title": "Eight Below",
@@ -4750,8 +4750,8 @@
     "Running time": "99 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$50 million[1]",
-    "Box office": "$87.1 million[1]"
+    "Budget": "$50 million",
+    "Box office": "$87.1 million"
   },
   {
     "title": "The Wild",
@@ -4763,13 +4763,13 @@
     "Music by": "Alan Silvestri",
     "Edited by": "Scott Balcerek Steven L. Wagner",
     "Productioncompany ": "Walt Disney Pictures Hoytyboy Pictures Sir Zip Productions Contrafilm C.O.R.E. Feature Animation",
-    "Distributed by": "Buena Vista Pictures[1]",
+    "Distributed by": "Buena Vista Pictures",
     "Release date": "April 14, 2006 (2006-04-14)",
-    "Running time": "82 minutes[2]",
-    "Country": "United States Canada[3]",
+    "Running time": "82 minutes",
+    "Country": "United States Canada",
     "Language": "English",
-    "Budget": "$80 million[4]",
-    "Box office": "$102.3 million[5]"
+    "Budget": "$80 million",
+    "Box office": "$102.3 million"
   },
   {
     "title": "Cars",
@@ -4784,11 +4784,11 @@
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "June 9, 2006 (2006-06-09) (United States)",
-    "Running time": "117 minutes[1]",
+    "Running time": "117 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$120 million[1]",
-    "Box office": "$462 million[1]"
+    "Budget": "$120million",
+    "Box office": "$462million"
   },
   {
     "title": "Pirates of the Caribbean:  Dead Man's Chest",
@@ -4803,11 +4803,11 @@
     "Productioncompanies ": "Jerry Bruckheimer Films",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "July 7, 2006 (2006-07-07) (United States)",
-    "Running time": "151 minutes[1]",
+    "Running time": "151 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$225 million[2]",
-    "Box office": "$1.066 billion[2]"
+    "Budget": "$225 million",
+    "Box office": "$1.066 billion"
   },
   {
     "title": "Invincible",
@@ -4839,15 +4839,15 @@
     "Music by": "Danny Elfman",
     "Cinematography": "Pete Kozachik",
     "Edited by": "Stan Webb",
-    "Animation by": "Justin Khon[3]",
-    "Productioncompany ": "Touchstone Pictures1Skellington Productions[4]",
-    "Distributed by": "Buena Vista Pictures Distribution[4]",
+    "Animation by": "Justin Khon",
+    "Productioncompany ": "Touchstone Pictures1Skellington Productions",
+    "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "October 29, 1993 (1993-10-29)",
-    "Running time": "76 minutes[5]",
+    "Running time": "76 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$24 million[6]",
-    "Box office": "$91.5 million[7]"
+    "Budget": "$24 million",
+    "Box office": "$91.5 million"
   },
   {
     "title": "Bridge to Terabithia",
@@ -4859,14 +4859,14 @@
     "Music by": "Aaron Zigman",
     "Cinematography": "Michael Chapman",
     "Edited by": "John Gilbert",
-    "Productioncompanies ": "Walt Disney PicturesWalden Media[1]",
+    "Productioncompanies ": "Walt Disney PicturesWalden Media",
     "Distributed by": "Buena Vista Pictures Distribution (United States)Summit Entertainment (International)",
     "Release date": "February 16, 2007 (2007-02-16)",
-    "Running time": "95 minutes[2]",
-    "Country": "United States[1]",
+    "Running time": "95 minutes",
+    "Country": "United States",
     "Language": "English",
-    "Budget": "$20–25 million[3][4]",
-    "Box office": "$138 million[4]"
+    "Budget": "$20–25 million",
+    "Box office": "$138 million"
   },
   {
     "title": "Meet the Robinsons",
@@ -4880,11 +4880,11 @@
     "Productioncompany ": "Walt Disney Animation Studios",
     "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "March 30, 2007 (2007-03-30) (UK)",
-    "Running time": "94 minutes[1][2]",
+    "Running time": "94 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million[3]",
-    "Box office": "$169.3 million[4]"
+    "Budget": "$150 million",
+    "Box office": "$169.3 million"
   },
   {
     "title": "Pirates of the Caribbean:  At World's End",
@@ -4899,11 +4899,11 @@
     "Productioncompanies ": "Jerry Bruckheimer Films",
     "Distributed by": "Buena Vista Pictures",
     "Release date": "May 25, 2007 (2007-05-25) (United States)",
-    "Running time": "168 minutes[1]",
+    "Running time": "168 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$300 million[2]",
-    "Box office": "$961 million[2]"
+    "Budget": "$300 million",
+    "Box office": "$961 million"
   },
   {
     "title": "Ratatouille",
@@ -4921,8 +4921,8 @@
     "Running time": "111 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million[1]",
-    "Box office": "$620.7 million[2]"
+    "Budget": "$150million",
+    "Box office": "$620.7million"
   },
   {
     "title": "Underdog",
@@ -4934,14 +4934,14 @@
     "Music by": "Randy Edelman",
     "Cinematography": "David Eggby",
     "Edited by": "Tom Finan",
-    "Productioncompanies ": "Spyglass Entertainment[1]",
-    "Distributed by": "Buena Vista Pictures Distribution[1]",
+    "Productioncompanies ": "Spyglass Entertainment",
+    "Distributed by": "Buena Vista Pictures Distribution",
     "Release date": "August 3, 2007 (2007-08-03)",
-    "Running time": "82 minutes[2]",
+    "Running time": "82 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million[3]",
-    "Box office": "$65.3 million[4]"
+    "Budget": "$25 million",
+    "Box office": "$65.3 million"
   },
   {
     "title": "The Pixar Story",
@@ -4973,8 +4973,8 @@
     "Running time": "110 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$22 million[1]",
-    "Box office": "$146.6 million[1]"
+    "Budget": "$22 million",
+    "Box office": "$146.6 million"
   },
   {
     "title": "Enchanted",
@@ -4988,11 +4988,11 @@
     "Productioncompanies ": "Josephson Entertainment",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "November 21, 2007 (2007-11-21) (United States)",
-    "Running time": "107 minutes[1]",
+    "Running time": "107 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$85 million[2]",
-    "Box office": "$340.5 million[3]"
+    "Budget": "$85 million",
+    "Box office": "$340.5 million"
   },
   {
     "title": "National Treasure: Book of Secrets",
@@ -5011,8 +5011,8 @@
     "Running time": "124 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$130 million[1]",
-    "Box office": "$459.2 million[2]"
+    "Budget": "$130 million",
+    "Box office": "$459.2 million"
   },
   {
     "title": "Hannah Montana and Miley Cyrus:Best of Both Worlds Concert",
@@ -5029,7 +5029,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$7 million",
-    "Box office": "$70.6 million[1]"
+    "Box office": "$70.6 million"
   },
   {
     "title": "College Road Trip",
@@ -5046,7 +5046,7 @@
     "Running time": "83 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million[1]",
+    "Budget": "$25 million",
     "Box office": "$51.5 million"
   },
   {
@@ -5065,8 +5065,8 @@
     "Running time": "150 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$225 million[1]",
-    "Box office": "$419.7 million[2]"
+    "Budget": "$225 million",
+    "Box office": "$419.7 million"
   },
   {
     "title": "WALL-E",
@@ -5081,10 +5081,10 @@
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "June 27, 2008 (2008-06-27) (United States)",
-    "Running time": "97 minutes[1]",
+    "Running time": "97 minutes",
     "Country": "United States",
-    "Budget": "$180 million[2]",
-    "Box office": "$533.3 million[3]"
+    "Budget": "$180 million",
+    "Box office": "$533.3 million"
   },
   {
     "title": "Beverly Hills Chihuahua",
@@ -5102,7 +5102,7 @@
     "Running time": "91 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$20 million[1]",
+    "Budget": "$20 million",
     "Box office": "$149.3 million"
   },
   {
@@ -5112,11 +5112,11 @@
     "Edited by": "Paul Crowder",
     "Productioncompany ": "Walt Disney Pictures",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
-    "Release date": "October 17, 2008 (2008-10-17)",
+    "Release date": "October17,2008(2008-10-17)",
     "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$275,776[1]"
+    "Box office": "$275,776"
   },
   {
     "title": "High School Musical 3:  Senior Year",
@@ -5130,11 +5130,11 @@
     "Productioncompany ": "Borden and Rosenbush Entertainment",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "October 24, 2008 (2008-10-24) (United States)",
-    "Running time": "111 minutes (theatrical)[1]120 minutes (extended/Disney+)",
+    "Running time": "111 minutes (theatrical)120 minutes (extended/Disney+)",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$11 million[2]",
-    "Box office": "$252.9 million[2]"
+    "Budget": "$11 million",
+    "Box office": "$252.9 million"
   },
   {
     "title": "Bolt",
@@ -5150,8 +5150,8 @@
     "Running time": "96 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million[1]",
-    "Box office": "$310 million[1]"
+    "Budget": "$150 million",
+    "Box office": "$310 million"
   },
   {
     "title": "Bedtime Stories",
@@ -5169,8 +5169,8 @@
     "Running time": "99 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$80 million[1]",
-    "Box office": "$212.9 million[2]"
+    "Budget": "$80 million",
+    "Box office": "$212.9 million"
   },
   {
     "title": "Jonas Brothers:The 3D Concert Experience",
@@ -5183,10 +5183,10 @@
     "Productioncompany ": "Walt Disney PicturesJonas Films",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "February 27, 2009 (2009-02-27)",
-    "Running time": "76 minutes[1]85 minutes (Extended edition)[2]",
+    "Running time": "76 minutes85 minutes (Extended edition)",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$23.1 million[3]"
+    "Box office": "$23.1 million"
   },
   {
     "title": "Race to Witch Mountain",
@@ -5205,14 +5205,14 @@
     "Running time": "98 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$50 million[1]",
-    "Box office": "$106.4 million[2]"
+    "Budget": "$50 million",
+    "Box office": "$106.4 million"
   },
   {
     "title": "Hannah Montana: The Movie",
-    "Directed by": "Peter Chelsom[1]",
+    "Directed by": "Peter Chelsom",
     "Produced by": "Michael Poryes",
-    "Written by": "Dan Berendsen[1]",
+    "Written by": "Dan Berendsen",
     "Based on": "Hannah Montanaby Michael PoryesRich CorrellBarry O'Brien",
     "Starring": "Billy Ray Cyrus",
     "Music by": "John Debney",
@@ -5221,11 +5221,11 @@
     "Productioncompany ": "Millar Gough Ink",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "April 10, 2009 (2009-04-10)",
-    "Running time": "97 minutes[2]",
+    "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million[3]",
-    "Box office": "$169.2  million [3]"
+    "Budget": "$30 million",
+    "Box office": "$169.2  million "
   },
   {
     "title": "Earth",
@@ -5238,11 +5238,11 @@
     "Productioncompany ": "BBC Natural History Unit",
     "Distributed by": "Walt Disney Studios Motion Pictures (United States)",
     "Release date": "April 22, 2009 (2009-04-22) (United States)",
-    "Running time": "99 minutes (UK)[1]90 minutes (U.S.)",
+    "Running time": "99 minutes (UK)90 minutes (U.S.)",
     "Country": "United States",
     "Language": "English",
     "Budget": "$47 million",
-    "Box office": "$109 million[2]"
+    "Box office": "$109 million"
   },
   {
     "title": "Up",
@@ -5257,11 +5257,11 @@
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "May 29, 2009 (2009-05-29)",
-    "Running time": "96 minutes[1]",
+    "Running time": "96 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175 million[2]",
-    "Box office": "$735.1 million[1]"
+    "Budget": "$175 million",
+    "Box office": "$735.1 million"
   },
   {
     "title": "G-Force",
@@ -5276,11 +5276,11 @@
     "Productioncompany ": "Jerry Bruckheimer Films",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "July 24, 2009 (2009-07-24)",
-    "Running time": "90 minutes[1]",
+    "Running time": "90 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million[1]",
-    "Box office": "$292.8 million[1]"
+    "Budget": "$150 million",
+    "Box office": "$292.8 million"
   },
   {
     "title": "Ponyo",
@@ -5297,11 +5297,11 @@
     "Productioncompany ": "Studio Ghibli",
     "Distributed by": "Toho",
     "Release date": "July 19, 2008 (2008-07-19)",
-    "Running time": "101 minutes[1]",
+    "Running time": "101 minutes",
     "Country": "Japan",
     "Language": "Japanese",
     "Budget": "¥3.4 billion(US$34 million)",
-    "Box office": "US$203.2 million[2]"
+    "Box office": "US$203.2 million"
   },
   {
     "title": "Walt & El Grupo",
@@ -5323,10 +5323,10 @@
     "Productioncompany ": "The Walt Disney Company CIS (Russia)Trite (Russia)",
     "Release date": "2009 (2009)",
     "Running time": "101 minutes",
-    "Country": " Russia",
+    "Country": "Russia",
     "Language": "Russian",
-    "Budget": "$8 million (₽350 million)[1]",
-    "Box office": "$11.3 million[2]"
+    "Budget": "$8 million (₽350 million)",
+    "Box office": "$11.3 million"
   },
   {
     "title": "A Christmas Carol",
@@ -5341,11 +5341,11 @@
     "Productioncompany ": "ImageMovers Digital",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "November 6, 2009 (2009-11-06) (United States)",
-    "Running time": "96 minutes[1]",
+    "Running time": "96 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175-200 million[2][3]",
-    "Box office": "$325 million[3]"
+    "Budget": "$175-200 million",
+    "Box office": "$325 million"
   },
   {
     "title": "Old Dogs",
@@ -5363,7 +5363,7 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "$35 million",
-    "Box office": "$96.8 million[1]"
+    "Box office": "$96.8 million"
   },
   {
     "title": "The Princess and the Frog",
@@ -5378,11 +5378,11 @@
     "Productioncompany ": "Walt Disney Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "December 11, 2009 (2009-12-11) (United States)",
-    "Running time": "97 minutes[1]",
+    "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$105 million[2]",
-    "Box office": "$270 million[1][3]"
+    "Budget": "$105 million",
+    "Box office": "$270 million"
   },
   {
     "title": "Alice in Wonderland",
@@ -5398,10 +5398,10 @@
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "March 5, 2010 (2010-03-05) (United States)",
     "Running time": "108 minutes",
-    "Country": "United States[1]",
+    "Country": "United States",
     "Language": "English",
-    "Budget": "$150[2][3]–$200[4] million",
-    "Box office": "$1.025 billion[5]"
+    "Budget": "$150–$200 million",
+    "Box office": "$1.025 billion"
   },
   {
     "title": "Oceans",
@@ -5419,7 +5419,7 @@
     "Country": "France",
     "Language": "French",
     "Budget": "$80 million",
-    "Box office": "$82.7 million[1]"
+    "Box office": "$82.7 million"
   },
   {
     "title": "Prince of Persia: The Sands of Time",
@@ -5438,8 +5438,8 @@
     "Running time": "116 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150  million[1]",
-    "Box office": "$336.4 million[2]"
+    "Budget": "$150  million",
+    "Box office": "$336.4 million"
   },
   {
     "title": "Toy Story 3",
@@ -5454,11 +5454,11 @@
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "June 18, 2010 (2010-06-18) (United States)",
-    "Running time": "103 minutes[1]",
+    "Running time": "103 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million[1]",
-    "Box office": "$1.067 billion[1]"
+    "Budget": "$200million",
+    "Box office": "$1.067billion"
   },
   {
     "title": "The Sorcerer's Apprentice",
@@ -5477,8 +5477,8 @@
     "Running time": "109 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million[1]",
-    "Box office": "$215.3 million[2]"
+    "Budget": "$150 million",
+    "Box office": "$215.3 million"
   },
   {
     "title": "Tales from Earthsea",
@@ -5498,7 +5498,7 @@
     "Country": "Japan",
     "Language": "Japanese",
     "Budget": "$22 million[citation needed]",
-    "Box office": "$68.7 million[1]"
+    "Box office": "$68.7 million"
   },
   {
     "title": "The Crimson Wing: Mystery of the Flamingos",
@@ -5529,8 +5529,8 @@
     "Running time": "123 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$35 million[1][2]",
-    "Box office": "$60.3 million[2]"
+    "Budget": "$35 million",
+    "Box office": "$60.3 million"
   },
   {
     "title": "Do Dooni Chaar",
@@ -5558,14 +5558,14 @@
     "Starring": "Donna Murphy",
     "Music by": "Alan Menken",
     "Edited by": "Tim Mertens",
-    "Productioncompany ": "Walt Disney Pictures[2]Walt Disney Animation Studios[3]",
-    "Distributed by": "Walt Disney Studios Motion Pictures[2]",
+    "Productioncompany ": "Walt Disney PicturesWalt Disney Animation Studios",
+    "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "November 24, 2010 (2010-11-24) (United States)",
-    "Running time": "100 minutes[4]",
+    "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$260 million[5][6]",
-    "Box office": "$592.4 million[6]"
+    "Budget": "$260 million",
+    "Box office": "$592.4 million"
   },
   {
     "title": "The Boys: The Sherman Brothers' Story",
@@ -5581,7 +5581,7 @@
     "Running time": "101 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$55,513[1]"
+    "Box office": "$55,513"
   },
   {
     "title": "Tron: Legacy",
@@ -5596,12 +5596,12 @@
     "Edited by": "James Haygood",
     "Productioncompanies ": "Sean Bailey Productions",
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "December 17, 2010 (2010-12-17) (United States)[1]",
-    "Running time": "125 minutes[2]",
+    "Release date": "December 17, 2010 (2010-12-17) (United States)",
+    "Running time": "125 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million[3][4]",
-    "Box office": "$400.1 million[4][5]"
+    "Budget": "$200million",
+    "Box office": "$400.1million"
   },
   {
     "title": "Anaganaga O Dheerudu",
@@ -5613,12 +5613,12 @@
     "Cinematography": "Soundarrajan",
     "Edited by": "Sravan Katikaneni",
     "Productioncompany ": "Disney World CinemaA Bellyful of Dreams EntertainmentArka Media WorksWalt Disney Pictures India",
-    "Distributed by": "UTV Motion Pictures[1]",
+    "Distributed by": "UTV Motion Pictures",
     "Release date": "14 January 2011 (2011-01-14) (India)",
     "Country": "India",
     "Language": "Telugu",
-    "Budget": "₹27 crore (US$3.8 million)",
-    "Box office": "₹50 crore (US$7.0 million)"
+    "Budget": "₹27 crore (US$3.8million)",
+    "Box office": "₹50 crore (US$7.0million)"
   },
   {
     "title": "Lilly the Witch:The Journey to Mandolan",
@@ -5647,11 +5647,11 @@
     "Productioncompany ": "Walt Disney PicturesImageMovers Digital",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "March 11, 2011 (2011-03-11)",
-    "Running time": "88 minutes[1]",
+    "Running time": "88 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million[1][2]",
-    "Box office": "$39.2 million[1]"
+    "Budget": "$150 million",
+    "Box office": "$39.2 million"
   },
   {
     "title": "Zokkomon",
@@ -5675,14 +5675,14 @@
     "Produced by": "Alix Tidmarsh  Keith Scholey",
     "Narrated by": "Samuel L. Jackson (US version)Patrick Stewart (UK version)",
     "Music by": "Nicholas Hooper",
-    "Productioncompany ": "Silverback Films[1]",
+    "Productioncompany ": "Silverback Films",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "April 27, 2012 (2012-04-27) (United Kingdom)",
     "Running time": "89 minutes",
     "Country": "United StatesFranceUnited Kingdom",
     "Language": "EnglishFrench",
-    "Budget": "$5 million[2]",
-    "Box office": "$30.9 million[3]"
+    "Budget": "$5 million",
+    "Box office": "$30.9 million"
   },
   {
     "title": "Prom",
@@ -5699,8 +5699,8 @@
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$8 million[1]",
-    "Box office": "$10.7 million[2]"
+    "Budget": "$8 million",
+    "Box office": "$10.7 million"
   },
   {
     "title": "Pirates of the Caribbean:On Stranger Tides",
@@ -5715,11 +5715,11 @@
     "Productioncompanies ": "Original Film",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "May 20, 2011 (2011-05-20) (United States)",
-    "Running time": "137 minutes[1]",
+    "Running time": "137 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$378.5 million (net)[2]",
-    "Box office": "$1.046 billion[3]"
+    "Budget": "$378.5 million (net)",
+    "Box office": "$1.046 billion"
   },
   {
     "title": "Cars 2",
@@ -5737,8 +5737,8 @@
     "Running time": "106 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million[1]",
-    "Box office": "$562.1 million[2]"
+    "Budget": "$200million",
+    "Box office": "$562.1 million"
   },
   {
     "title": "Winnie the Pooh",
@@ -5754,11 +5754,11 @@
     "Productioncompanies ": "Walt Disney Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "July 15, 2011 (2011-07-15) (United States)",
-    "Running time": "69 minutes[1]",
+    "Running time": "69 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million[2]",
-    "Box office": "$50.1 million[3]"
+    "Budget": "$30 million",
+    "Box office": "$50.1 million"
   },
   {
     "title": "The Muppets",
@@ -5770,14 +5770,14 @@
     "Music by": "Christophe Beck",
     "Cinematography": "Don Burgess",
     "Edited by": "James Thomas",
-    "Productioncompany ": "Walt Disney Pictures[1]Mandeville Films[1]",
+    "Productioncompany ": "Walt Disney PicturesMandeville Films",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "November 23, 2011 (2011-11-23) (United States)",
-    "Running time": "103 minutes[2]",
+    "Running time": "103 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$45 million[3][4]",
-    "Box office": "$165.2 million[5]"
+    "Budget": "$45million",
+    "Box office": "$165.2 million"
   },
   {
     "title": "John Carter",
@@ -5792,11 +5792,11 @@
     "Productioncompany ": "Walt Disney Pictures",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "March 9, 2012 (2012-03-09) (United States)",
-    "Running time": "132 minutes[1]",
+    "Running time": "132 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$263.7 million (net)[2]",
-    "Box office": "$284.1 million[3]"
+    "Budget": "$263.7 million (net)",
+    "Box office": "$284.1 million"
   },
   {
     "title": "Chimpanzee",
@@ -5813,15 +5813,15 @@
     "Running time": "77 minutes",
     "Country": "United StatesFranceUnited Kingdom",
     "Language": "EnglishFrench",
-    "Budget": "$5 million[1]",
-    "Box office": "$34.8 million[2]"
+    "Budget": "$5 million",
+    "Box office": "$34.8 million"
   },
   {
     "title": "Arjun: The Warrior Prince",
     "Directed by": "Arnab Chaudhuri",
     "Produced by": "Ronnie ScrewvalaSiddharth Roy Kapur",
     "Screenplay by": "Rajesh Devraj",
-    "Music by": "Songs:Vishal ShekharBackground Score:Dhruv Ghanekar[1]",
+    "Music by": "Songs:Vishal ShekharBackground Score:Dhruv Ghanekar",
     "Cinematography": "Hemant Chaturvedi",
     "Edited by": "A. Sreekar Prasad",
     "Productioncompany ": "Walt Disney PicturesWalt Disney Pictures IndiaUTV Motion Pictures",
@@ -5844,11 +5844,11 @@
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "June 22, 2012 (2012-06-22) (United States)",
-    "Running time": "93 minutes[1]",
+    "Running time": "93 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$185 million[1]",
-    "Box office": "$540.4 million[2]"
+    "Budget": "$185 million",
+    "Box office": "$540.4 million"
   },
   {
     "title": "The Odd Life of Timothy Green",
@@ -5863,11 +5863,11 @@
     "Productioncompany ": "Scott Sanders Productions",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "August 15, 2012 (2012-08-15)",
-    "Running time": "104 minutes[1]",
+    "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million[2][3]",
-    "Box office": "$56 million[4]"
+    "Budget": "$25 million",
+    "Box office": "$56 million"
   },
   {
     "title": "Frankenweenie",
@@ -5883,17 +5883,17 @@
     "Productioncompany ": "Walt Disney PicturesTim Burton Productions",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "October 5, 2012 (2012-10-05) (United States)",
-    "Running time": "87 minutes[1]",
+    "Running time": "87 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$39 million[2]",
-    "Box office": "$81.5 million[2]"
+    "Budget": "$39 million",
+    "Box office": "$81.5 million"
   },
   {
     "title": "Wreck-It Ralph",
     "Directed by": "Rich Moore",
     "Produced by": "Clark Spencer",
-    "Screenplay by": "Jennifer Lee[1]",
+    "Screenplay by": "Jennifer Lee",
     "Story by": "Jim Reardon",
     "Starring": "Jane Lynch",
     "Music by": "Henry Jackman",
@@ -5902,11 +5902,11 @@
     "Productioncompany ": "Walt Disney Animation Studios",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "November 2, 2012 (2012-11-02) (United States)",
-    "Running time": "101 minutes[3][4]",
+    "Running time": "101 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$165 million[5]",
-    "Box office": "$471.2 million[5]"
+    "Budget": "$165million",
+    "Box office": "$471.2 million"
   },
   {
     "title": "Oz the Great and Powerful",
@@ -5922,11 +5922,11 @@
     "Productioncompanies ": "Roth Films",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "March 8, 2013 (2013-03-08) (United States)",
-    "Running time": "130 minutes[1]",
+    "Running time": "130 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200–215 million[2][3]",
-    "Box office": "$493.3 million[4]"
+    "Budget": "$200–215 million",
+    "Box office": "$493.3 million"
   },
   {
     "title": "Wings of Life",
@@ -5954,11 +5954,11 @@
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "June 21, 2013 (2013-06-21) (United States)",
-    "Running time": "104 minutes[1]",
+    "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million[2][3][4]",
-    "Box office": "$743.6 million[5]"
+    "Budget": "$200million",
+    "Box office": "$743.6million"
   },
   {
     "title": "The Lone Ranger",
@@ -5974,29 +5974,29 @@
     "Productioncompany ": "Blind Wink Productions",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "July 3, 2013 (2013-07-03) (United States)",
-    "Running time": "149 minutes[1]",
+    "Running time": "149 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$225–250 million[2]",
-    "Box office": "$260.5 million[3]"
+    "Budget": "$225–250 million",
+    "Box office": "$260.5 million"
   },
   {
     "title": "Planes",
-    "Directed by": "Klay Hall[1]",
-    "Produced by": "Tracy Balthazor-Flynn[2]",
-    "Screenplay by": "Jeffrey M. Howard[3]",
+    "Directed by": "Klay Hall",
+    "Produced by": "Tracy Balthazor-Flynn",
+    "Screenplay by": "Jeffrey M. Howard",
     "Story by": "John LasseterKlay HallJeffrey M. Howard",
     "Starring": "Dane CookStacy KeachTeri HatcherPriyanka ChopraBrad GarrettJulia Louis-DreyfusRoger Craig SmithJohn CleeseCarlos AlazraquiSinbadVal KilmerAnthony Edwards",
-    "Music by": "Mark Mancina[4]",
+    "Music by": "Mark Mancina",
     "Edited by": "Jeremy Milton",
     "Productioncompany ": "Walt Disney PicturesDisneytoon Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
-    "Release date": "August 9, 2013 (2013-08-09)[6]",
-    "Running time": "92 minutes[7]",
+    "Release date": "August 9, 2013 (2013-08-09)",
+    "Running time": "92 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$50 million[8]",
-    "Box office": "$239.3 million[8]"
+    "Budget": "$50 million",
+    "Box office": "$239.3 million"
   },
   {
     "title": "Frozen",
@@ -6010,12 +6010,12 @@
     "Edited by": "Jeff Draheim",
     "Productioncompany ": "Walt Disney Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
-    "Release date": "November 22, 2013 (2013-11-22) (United States)[1]",
-    "Running time": "102 minutes[2]",
+    "Release date": "November 22, 2013 (2013-11-22) (United States)",
+    "Running time": "102 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million[3][4]",
-    "Box office": "$1.280 billion[4]"
+    "Budget": "$150 million",
+    "Box office": "$1.280 billion"
   },
   {
     "title": "Saving Mr. Banks",
@@ -6029,11 +6029,11 @@
     "Productioncompany ": "Hopscotch Features",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "January 9, 2014 (2014-01-09) (Australia)",
-    "Running time": "125 minutes[1]",
+    "Running time": "125 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$35 million[2]",
-    "Box office": "$117.9 million[3]"
+    "Budget": "$35 million",
+    "Box office": "$117.9 million"
   },
   {
     "title": "Muppets Most Wanted",
@@ -6044,30 +6044,30 @@
     "Starring": "Tina Fey",
     "Music by": "Christophe Beck",
     "Cinematography": "Don Burgess",
-    "Edited by": "James Thomas[1]",
+    "Edited by": "James Thomas",
     "Productioncompany ": "Walt Disney PicturesMandeville Films",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "March 21, 2014 (2014-03-21) (United States)",
     "Running time": "107 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$51 million[2][3]",
-    "Box office": "$80.4 million[3]"
+    "Budget": "$51 million",
+    "Box office": "$80.4 million"
   },
   {
     "title": "Bears",
     "Directed by": "Alastair FothergillKeith Scholey",
     "Written by": "Alastair FothergillAdam Chapman",
-    "Narrated by": "John C. Reilly[1]",
+    "Narrated by": "John C. Reilly",
     "Music by": "George Fenton",
-    "Productioncompany ": "Silverback Films[2]",
+    "Productioncompany ": "Silverback Films",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "April 18, 2014 (2014-04-18) (United States)",
     "Running time": "77 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million[3]",
-    "Box office": "$21.3 million[4]"
+    "Budget": "$5 million",
+    "Box office": "$21.3 million"
   },
   {
     "title": "Million Dollar Arm",
@@ -6081,11 +6081,11 @@
     "Productioncompany ": "Walt Disney PicturesRoth FilmsMayhem Pictures",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "May 16, 2014 (2014-05-16) (United States)",
-    "Running time": "124 minutes[1]",
+    "Running time": "124 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million[2]",
-    "Box office": "$39.2 million[3]"
+    "Budget": "$25 million",
+    "Box office": "$39.2 million"
   },
   {
     "title": "Maleficent",
@@ -6100,16 +6100,16 @@
     "Productioncompany ": "Roth Films",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "May 30, 2014 (2014-05-30) (United States)",
-    "Running time": "97 minutes[1]",
+    "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$180–263 million[2]",
-    "Box office": "$758.5 million[1]"
+    "Budget": "$180–263million",
+    "Box office": "$758.5million"
   },
   {
     "title": "Planes: Fire & Rescue",
     "Directed by": "Bobs Gannaway",
-    "Produced by": "Ferrell Barron[1]",
+    "Produced by": "Ferrell Barron",
     "Screenplay by": "Bobs GannawayJeffrey  M. Howard",
     "Story by": "Jeffrey M. Howard",
     "Starring": "Dale Dye",
@@ -6118,35 +6118,35 @@
     "Productioncompany ": "Disneytoon Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "July 18, 2014 (2014-07-18) (United States)",
-    "Running time": "84 minutes[2]",
+    "Running time": "84minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$50 million[3][4]",
-    "Box office": "$147 million[3]"
+    "Budget": "$50million",
+    "Box office": "$147million"
   },
   {
     "title": "Khoobsurat",
-    "Directed by": "Shashanka Ghosh[1]",
-    "Produced by": "Rhea KapoorAnil KapoorSiddharth Roy Kapur[1]",
+    "Directed by": "Shashanka Ghosh",
+    "Produced by": "Rhea KapoorAnil KapoorSiddharth Roy Kapur",
     "Written by": "Indira BishtJuhi Chaturvedi",
-    "Starring": "Sonam KapoorFawad Khan[2]",
+    "Starring": "Sonam KapoorFawad Khan",
     "Music by": "Songs:Sneha KhanwalkarBadshahAmaal MallikBackground Score:Simaab Sen",
     "Cinematography": "Tushar Kanti Ray",
     "Edited by": "Bakul Matiyani",
-    "Productioncompany ": "Walt Disney Pictures IndiaAnil Kapoor Films Company[3]",
+    "Productioncompany ": "Walt Disney Pictures IndiaAnil Kapoor Films Company",
     "Distributed by": "UTV Motion Pictures",
     "Release date": "19 September 2014 (2014-09-19)",
     "Running time": "127 minutes",
     "Country": "India",
     "Language": "Hindi",
-    "Budget": "₹230 million (US$3.2 million)[4]",
-    "Box office": "est. ₹79.43 crore (US$11 million)[5]"
+    "Budget": "₹230 million (US$3.2million)",
+    "Box office": "est. ₹79.43 crore (US$11million)"
   },
   {
     "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
     "Directed by": "Miguel Arteta",
     "Produced by": "Shawn LevyDan LevineLisa Henson",
-    "Screenplay by": "Rob Lieber[1]",
+    "Screenplay by": "Rob Lieber",
     "Based on": "Alexander and the Terrible, Horrible, No Good, Very Bad Dayby Judith Viorst",
     "Starring": "Steve CarellJennifer GarnerEd OxenbouldDylan MinnetteKerris DorseyBella Thorne",
     "Music by": "Christophe Beck",
@@ -6155,11 +6155,11 @@
     "Productioncompany ": "Walt Disney Pictures21 Laps EntertainmentThe Jim Henson Company",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "October 10, 2014 (2014-10-10) (United States)",
-    "Running time": "81 minutes[2]",
+    "Running time": "81 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$28 million[3]",
-    "Box office": "$100.7 million[4]"
+    "Budget": "$28 million",
+    "Box office": "$100.7 million"
   },
   {
     "title": "Big Hero 6",
@@ -6174,11 +6174,11 @@
     "Productioncompany ": "Walt Disney PicturesWalt Disney Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "November 7, 2014 (2014-11-07) (United States)",
-    "Running time": "102 minutes[1][2]",
+    "Running time": "102 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$165 million[3][4]",
-    "Box office": "$657.8 million[4]"
+    "Budget": "$165million",
+    "Box office": "$657.8million"
   },
   {
     "title": "Into the Woods",
@@ -6194,11 +6194,11 @@
     "Productioncompany ": "Marc Platt Productions",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "December 25, 2014 (2014-12-25) (United States)",
-    "Running time": "124 minutes[1]",
+    "Running time": "124 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$50 million[2]",
-    "Box office": "$213.1 million[3]"
+    "Budget": "$50 million",
+    "Box office": "$213.1 million"
   },
   {
     "title": "McFarland, USA",
@@ -6216,8 +6216,8 @@
     "Running time": "129 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million[1]",
-    "Box office": "$45.7 million[2]"
+    "Budget": "$25 million",
+    "Box office": "$45.7 million"
   },
   {
     "title": "Cinderella",
@@ -6232,28 +6232,28 @@
     "Productioncompany ": "Beagle Pug Films",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "March 27, 2015 (2015-03-27) (United Kingdom)",
-    "Running time": "106 minutes[2]",
-    "Country": "United Kingdom[4]",
+    "Running time": "106 minutes",
+    "Country": "United Kingdom",
     "Language": "English",
-    "Budget": "$95–100 million[5][6]",
-    "Box office": "$542.4 million[5]"
+    "Budget": "$95–100 million",
+    "Box office": "$542.4 million"
   },
   {
     "title": "Monkey Kingdom",
     "Directed by": "Alastair Fothergill",
     "Produced by": "Alastair Fothergill",
     "Narrated by": "Tina Fey",
-    "Music by": "Harry Gregson-Williams[1]",
+    "Music by": "Harry Gregson-Williams",
     "Cinematography": "Gavin Thurston",
     "Edited by": "Andy Netley",
-    "Productioncompany ": "Silverback Films[2]",
+    "Productioncompany ": "Silverback Films",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "April 17, 2015 (2015-04-17) (United States)",
     "Running time": "82 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5–10 million[3]",
-    "Box office": "$17.1 million[4]"
+    "Budget": "$5–10 million",
+    "Box office": "$17.1 million"
   },
   {
     "title": "Tomorrowland",
@@ -6268,11 +6268,11 @@
     "Productioncompany ": "A113 Productions",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "May 22, 2015 (2015-05-22) (United States)",
-    "Running time": "130 minutes[1][2]",
+    "Running time": "130 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$180–190 million[3][4]",
-    "Box office": "$209 million[4]"
+    "Budget": "$180–190 million",
+    "Box office": "$209 million"
   },
   {
     "title": "Inside Out",
@@ -6281,17 +6281,17 @@
     "Screenplay by": "Josh Cooley",
     "Story by": "Ronnie del Carmen",
     "Starring": "Kyle MacLachlan",
-    "Music by": "Michael Giacchino[1]",
+    "Music by": "Michael Giacchino",
     "Cinematography": "Kim White (lighting)",
-    "Edited by": "Kevin Nolting[2]",
+    "Edited by": "Kevin Nolting",
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "June 19, 2015 (2015-06-19) (United States)",
-    "Running time": "94 minutes[3]",
+    "Running time": "94 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175 million[4]",
-    "Box office": "$858 million[3]"
+    "Budget": "$175 million",
+    "Box office": "$858 million"
   },
   {
     "title": "ABCD 2",
@@ -6309,15 +6309,15 @@
     "Running time": "154 minutes",
     "Country": "India",
     "Language": "Hindi",
-    "Budget": "₹520 million[1]",
-    "Box office": "est. ₹1.65 billion[1]"
+    "Budget": "₹520million",
+    "Box office": "est. ₹1.65billion"
   },
   {
     "title": "The Good Dinosaur",
     "Directed by": "Peter Sohn",
-    "Produced by": "Denise Ream[1]",
+    "Produced by": "Denise Ream",
     "Screenplay by": "Meg LeFauve",
-    "Story by": "Bob Peterson[2]",
+    "Story by": "Bob Peterson",
     "Starring": "Frances McDormand",
     "Music by": "Jeff Danna",
     "Cinematography": "Mahyar Abousaeedi (lighting)",
@@ -6325,11 +6325,11 @@
     "Productioncompanies ": "Pixar Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "November 25, 2015 (2015-11-25) (United States)",
-    "Running time": "94 minutes[4]",
+    "Running time": "94 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175 million[5]",
-    "Box office": "$332.2 million[6]"
+    "Budget": "$175 million",
+    "Box office": "$332.2 million"
   },
   {
     "title": "The Finest Hours",
@@ -6344,17 +6344,17 @@
     "Productioncompany ": "Red Hawk Entertainment",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "January 29, 2016 (2016-01-29) (United States)",
-    "Running time": "117 minutes[1]",
+    "Running time": "117 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$70–80 million[2][3]",
-    "Box office": "$52.1 million[4]"
+    "Budget": "$70–80 million",
+    "Box office": "$52.1 million"
   },
   {
     "title": "Zootopia",
     "Directed by": "Rich Moore",
     "Produced by": "Clark Spencer",
-    "Screenplay by": "Phil Johnston[1]",
+    "Screenplay by": "Phil Johnston",
     "Story by": "Jennifer Lee",
     "Starring": "Shakira",
     "Music by": "Michael Giacchino",
@@ -6363,11 +6363,11 @@
     "Productioncompany ": "Walt Disney Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "March 4, 2016 (2016-03-04) (United States)",
-    "Running time": "108 minutes[2][3]",
+    "Running time": "108 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million[4]",
-    "Box office": "$1.024 billion[5]"
+    "Budget": "$150million",
+    "Box office": "$1.024billion"
   },
   {
     "title": "The Jungle Book",
@@ -6383,10 +6383,10 @@
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "April 15, 2016 (2016-04-15) (United States)",
     "Running time": "106 minutes",
-    "Country": "United States[1]",
+    "Country": "United States",
     "Language": "English",
-    "Budget": "$175–177 million[2][3]",
-    "Box office": "$966.6 million[4]"
+    "Budget": "$175–177 million",
+    "Box office": "$966.6 million"
   },
   {
     "title": "Tini: The Movie",
@@ -6400,10 +6400,10 @@
     "Productioncompanies ": "Lapis Film",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "May 12, 2016 (2016-05-12) (Italy)",
-    "Running time": "98 minutes[1]",
+    "Running time": "98 minutes",
     "Country": "Italy",
     "Language": "Spanish",
-    "Box office": "$17 million[2]"
+    "Box office": "$17 million"
   },
   {
     "title": "Alice Through the Looking Glass",
@@ -6418,16 +6418,16 @@
     "Productioncompany ": "Tim Burton Productions",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "May 27, 2016 (2016-05-27) (United States)",
-    "Running time": "114 minutes[1]",
+    "Running time": "114 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$170 million[2]",
-    "Box office": "$299.5 million[1]"
+    "Budget": "$170 million",
+    "Box office": "$299.5 million"
   },
   {
     "title": "Finding Dory",
     "Directed by": "Andrew Stanton",
-    "Produced by": "Lindsey Collins[1]",
+    "Produced by": "Lindsey Collins",
     "Screenplay by": "Victoria Strouse",
     "Story by": "Andrew Stanton",
     "Starring": "Eugene Levy",
@@ -6437,11 +6437,11 @@
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "June 17, 2016 (2016-06-17) (United States)",
-    "Running time": "97 minutes[2]",
+    "Running time": "97 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175–200 million[3]",
-    "Box office": "$1.029 billion[4]"
+    "Budget": "$175–200million",
+    "Box office": "$1.029billion"
   },
   {
     "title": "The BFG",
@@ -6454,13 +6454,13 @@
     "Cinematography": "Janusz Kamiński",
     "Edited by": "Michael Kahn",
     "Productioncompanies ": "The Kennedy/Marshall Company",
-    "Distributed by": "Walt Disney StudiosMotion Pictures[3] (Worldwide)Mister Smith Entertainment[3] (EMEA)",
+    "Distributed by": "Walt Disney StudiosMotion Pictures (Worldwide)Mister Smith Entertainment (EMEA)",
     "Release date": "July 1, 2016 (2016-07-01) (United States)",
-    "Running time": "117 minutes[4]",
-    "Country": "United States[5][6]",
+    "Running time": "117 minutes",
+    "Country": "United States",
     "Language": "English",
-    "Budget": "$140 million[7]",
-    "Box office": "$195.2 million[8]"
+    "Budget": "$140 million",
+    "Box office": "$195.2 million"
   },
   {
     "title": "Pete's Dragon",
@@ -6475,11 +6475,11 @@
     "Productioncompanies ": "Whitaker Entertainment",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "August 12, 2016 (2016-08-12) (United States)",
-    "Running time": "103 minutes[1]",
+    "Running time": "103 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$65 million[2]",
-    "Box office": "$143.7 million[2]"
+    "Budget": "$65 million",
+    "Box office": "$143.7 million"
   },
   {
     "title": "Queen of Katwe",
@@ -6494,11 +6494,11 @@
     "Productioncompanies ": "Mirabai Films",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "September 23, 2016 (2016-09-23) (United States)",
-    "Running time": "124 minutes[1]",
+    "Running time": "124 minutes",
     "Country": "United States",
     "Language": "EnglishLuganda",
-    "Budget": "$15 million[2][3]",
-    "Box office": "$10.4 million[3]"
+    "Budget": "$15million",
+    "Box office": "$10.4million"
   },
   {
     "title": "Moana",
@@ -6513,19 +6513,19 @@
     "Productioncompanies ": "Walt Disney Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "November 23, 2016 (2016-11-23) (United States)",
-    "Running time": "107 minutes[1]",
+    "Running time": "107 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150–175 million[2][3]",
-    "Box office": "$690.8 million[1]"
+    "Budget": "$150–175million",
+    "Box office": "$690.8million"
   },
   {
     "title": "",
     "Industry": "Film",
     "Genre": "Nature documentary",
-    "Founded": "April 21, 2008; 12 years ago (2008-04-21)",
+    "Founded": "April21, 2008; 12years ago(2008-04-21)",
     "Headquarters": "Paris, France",
-    "Key people": "Paul Baribault (vice president)[1]",
+    "Key people": "Paul Baribault (vice president)",
     "Products": "Motion pictures",
     "Owner": "Walt Disney Studios(The Walt Disney Company)",
     "Website": "nature.disney.com"
@@ -6538,16 +6538,16 @@
     "Starring": "Aamir KhanSakshi TanwarFatima Sana ShaikhZaira WasimSanya MalhotraSuhani BhatnagarAparshakti KhuranaGirish Kulkarni",
     "Narrated by": "Aparshakti Khurana",
     "Music by": "Pritam",
-    "Cinematography": "Setu (Satyajit Pande)[1]",
+    "Cinematography": "Setu (Satyajit Pande)",
     "Edited by": "Ballu Saluja",
     "Productioncompany ": "Aamir Khan ProductionsWalt Disney Pictures India",
     "Distributed by": "UTV Motion Pictures",
     "Release date": "23 December 2016 (2016-12-23) (India)",
-    "Running time": "161 minutes[2]",
+    "Running time": "161 minutes",
     "Country": "India",
     "Language": "Hindi",
-    "Budget": "₹70 crore[3]",
-    "Box office": "est. ₹2,024–2,100 crore[4][5][6][7]  ($311–340 million)[8]"
+    "Budget": "₹70crore",
+    "Box office": "est. ₹2,024–2,100 crore  ($311–340million)"
   },
   {
     "title": "March of the Penguins",
@@ -6561,18 +6561,18 @@
     "Productioncompany ": "Bonne Pioche",
     "Distributed by": "Buena Vista International France",
     "Release date": "26 January 2005 (2005-01-26)",
-    "Running time": "80 minutes[1]",
+    "Running time": "80 minutes",
     "Country": "France",
     "Language": "French",
-    "Budget": "$8 million[2]",
-    "Box office": "$127.4 million[3]"
+    "Budget": "$8 million",
+    "Box office": "$127.4 million"
   },
   {
     "title": "Beauty and the Beast",
     "Directed by": "Bill Condon",
     "Produced by": "Todd Lieberman",
     "Screenplay by": "Evan Spiliotopoulos",
-    "Based on": "Beauty and the Beastby Jeanne-Marie Leprince de Beaumont[2]",
+    "Based on": "Beauty and the Beastby Jeanne-Marie Leprince de Beaumont",
     "Starring": "Emma Thompson",
     "Music by": "Alan Menken",
     "Cinematography": "Tobias A. Schliessler",
@@ -6580,11 +6580,11 @@
     "Productioncompany ": "Mandeville Films",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "March 17, 2017 (2017-03-17) (United States)",
-    "Running time": "129 minutes[3]",
+    "Running time": "129 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$160–255 million[4][5][6]",
-    "Box office": "$1.264 billion[4]"
+    "Budget": "$160–255 million",
+    "Box office": "$1.264billion"
   },
   {
     "title": "Born in China",
@@ -6596,14 +6596,14 @@
     "Narrated by": "John Krasinski (American release)Zhou Xun (Chinese release)Claire Keim (French release)",
     "Music by": "Barnaby Taylor",
     "Edited by": "Matthew Meech",
-    "Productioncompany ": "Brian Leith Productions[1]",
-    "Distributed by": "Walt Disney Studios Motion PicturesShanghai Media Group (China)[2]",
+    "Productioncompany ": "Brian Leith Productions",
+    "Distributed by": "Walt Disney Studios Motion PicturesShanghai Media Group (China)",
     "Release date": "August 23, 2017 (2017-08-23) (France)",
-    "Running time": "76 minutes[2]",
+    "Running time": "76 minutes",
     "Country": "United StatesChinaFrance",
     "Language": "EnglishMandarinFrench",
-    "Budget": "$5–10 million[3]",
-    "Box office": "$25.1 million[4]"
+    "Budget": "$5–10 million",
+    "Box office": "$25.1 million"
   },
   {
     "title": "Pirates of the Caribbean:Dead Men Tell No Tales",
@@ -6614,26 +6614,26 @@
     "Based on": "Pirates of the Caribbeanby Walt Disney",
     "Starring": "Kevin McNally",
     "Music by": "Geoff Zanelli",
-    "Cinematography": "Paul Cameron[1]",
+    "Cinematography": "Paul Cameron",
     "Edited by": "Leigh Folsom Boyd",
     "Productioncompany ": "Jerry Bruckheimer Films",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "May 26, 2017 (2017-05-26) (United States)",
-    "Running time": "129 minutes[3]",
+    "Running time": "129 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$230–320 million[4]",
-    "Box office": "$794.9 million[5]"
+    "Budget": "$230–320 million",
+    "Box office": "$794.9 million"
   },
   {
     "title": "Cars 3",
     "Directed by": "Brian Fee",
     "Produced by": "Kevin Reher",
-    "Screenplay by": "Mike Rich[1]",
-    "Story by": "Jonathan E. Stewart[1]",
+    "Screenplay by": "Mike Rich",
+    "Story by": "Jonathan E. Stewart",
     "Starring": "Kerry Washington",
-    "Music by": "Randy Newman[2]",
-    "Cinematography": "Kim White (lighting)[1]",
+    "Music by": "Randy Newman",
+    "Cinematography": "Kim White (lighting)",
     "Edited by": "Jason Hudak",
     "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
@@ -6641,8 +6641,8 @@
     "Running time": "102 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175 million[3]",
-    "Box office": "$383.9 million[4]"
+    "Budget": "$175 million",
+    "Box office": "$383.9 million"
   },
   {
     "title": "Ghost of the Mountains",
@@ -6670,11 +6670,11 @@
     "Productioncompany ": "Walt Disney Pictures IndiaPicture Shuru EntertainmentIshana Movies",
     "Distributed by": "UTV Motion Pictures",
     "Release date": "14 July 2017 (2017-07-14)",
-    "Running time": "162 minutes[1]",
+    "Running time": "162 minutes",
     "Country": "India",
     "Language": "Hindi",
-    "Budget": "₹1.31 billion[2]",
-    "Box office": "₹833.5 million[3]"
+    "Budget": "₹1.31billion",
+    "Box office": "₹833.5million"
   },
   {
     "title": "Coco",
@@ -6683,25 +6683,25 @@
     "Screenplay by": "Matthew Aldrich",
     "Story by": "Adrian Molina",
     "Starring": "Edward James Olmos",
-    "Music by": "Michael Giacchino[1]",
-    "Cinematography": "Danielle Feinberg (lighting)[2]",
-    "Edited by": "Steve Bloom[2]",
-    "Productioncompany ": "Pixar Animation Studios[3]",
+    "Music by": "Michael Giacchino",
+    "Cinematography": "Danielle Feinberg (lighting)",
+    "Edited by": "Steve Bloom",
+    "Productioncompany ": "Pixar Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "November 22, 2017 (2017-11-22) (United States)",
-    "Running time": "105 minutes[5]",
+    "Running time": "105 minutes",
     "Country": "United States",
-    "Language": "English[5]",
-    "Budget": "$175 million[6]",
-    "Box office": "$807.8 million[7]"
+    "Language": "English",
+    "Budget": "$175million",
+    "Box office": "$807.8million"
   },
   {
     "title": "",
     "Industry": "Film",
     "Genre": "Nature documentary",
-    "Founded": "April 21, 2008; 12 years ago (2008-04-21)",
+    "Founded": "April21, 2008; 12years ago(2008-04-21)",
     "Headquarters": "Paris, France",
-    "Key people": "Paul Baribault (vice president)[1]",
+    "Key people": "Paul Baribault (vice president)",
     "Products": "Motion pictures",
     "Owner": "Walt Disney Studios(The Walt Disney Company)",
     "Website": "nature.disney.com"
@@ -6719,11 +6719,11 @@
     "Productioncompanies ": "Whitaker Entertainment",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "March 9, 2018 (2018-03-09) (United States)",
-    "Running time": "109 minutes[1]",
+    "Running time": "109 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$100–130 million[2][3][4]",
-    "Box office": "$133.4 million[5][6]"
+    "Budget": "$100–130 million",
+    "Box office": "$133.4 million"
   },
   {
     "title": "Incredibles 2",
@@ -6737,11 +6737,11 @@
     "Productioncompanies ": "Pixar Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "June 15, 2018 (2018-06-15) (United States)",
-    "Running time": "118 minutes[1]",
+    "Running time": "118 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million[2][3]",
-    "Box office": "$1.243 billion[1]"
+    "Budget": "$200million",
+    "Box office": "$1.243billion"
   },
   {
     "title": "Christopher Robin",
@@ -6757,11 +6757,11 @@
     "Productioncompany ": "2DUX²",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "August 3, 2018 (2018-08-03) (United States)",
-    "Running time": "104 minutes[2]",
+    "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$75 million[3][4]",
-    "Box office": "$197.7 million[5]"
+    "Budget": "$75 million",
+    "Box office": "$197.7 million"
   },
   {
     "title": "The Nutcracker and the Four Realms",
@@ -6776,30 +6776,30 @@
     "Productioncompany ": "The Mark Gordon Company",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "November 2, 2018 (2018-11-02) (United States)",
-    "Running time": "99 minutes[1]",
+    "Running time": "99 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$120–133 million[2]",
-    "Box office": "$174 million[3]"
+    "Budget": "$120–133 million",
+    "Box office": "$174 million"
   },
   {
     "title": "Ralph Breaks the Internet",
     "Directed by": "Phil Johnston",
     "Produced by": "Clark Spencer",
-    "Screenplay by": "Pamela Ribon[1]",
-    "Story by": "Josie Trinidad[1]",
+    "Screenplay by": "Pamela Ribon",
+    "Story by": "Josie Trinidad",
     "Starring": "Ed O'Neill",
-    "Music by": "Henry Jackman[2]",
+    "Music by": "Henry Jackman",
     "Cinematography": "Brian Leach (lighting)",
     "Edited by": "Jeremy Milton",
     "Productioncompanies ": "Walt Disney Animation Studios",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "November 21, 2018 (2018-11-21) (United States)",
-    "Running time": "112 minutes[4]",
+    "Running time": "112 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175 million[4]",
-    "Box office": "$529.3 million[4]"
+    "Budget": "$175million",
+    "Box office": "$529.3million"
   },
   {
     "title": "Mary Poppins Returns",
@@ -6807,7 +6807,7 @@
     "Produced by": "Marc Platt",
     "Screenplay by": "David Magee",
     "Story by": "John DeLuca",
-    "Based on": "Mary Poppinsby P. L. Travers[1]",
+    "Based on": "Mary Poppinsby P. L. Travers",
     "Starring": "Meryl Streep",
     "Music by": "Marc Shaiman",
     "Cinematography": "Dion Beebe",
@@ -6815,11 +6815,11 @@
     "Productioncompany ": "Marc Platt Productions",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "December 19, 2018 (2018-12-19) (United States)",
-    "Running time": "131 minutes[2]",
+    "Running time": "131 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$130 million[3]",
-    "Box office": "$349.5 million[4]"
+    "Budget": "$130 million",
+    "Box office": "$349.5 million"
   },
   {
     "title": "Dumbo",
@@ -6828,40 +6828,40 @@
     "Screenplay by": "Ehren Kruger",
     "Based on": "Harold Pearl",
     "Starring": "Alan Arkin",
-    "Music by": "Danny Elfman[2]",
+    "Music by": "Danny Elfman",
     "Cinematography": "Ben Davis",
     "Edited by": "Chris Lebenzon",
     "Productioncompany ": "Secret Machine Entertainment",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "March 29, 2019 (2019-03-29) (United States)",
-    "Running time": "112 minutes[3]",
+    "Running time": "112 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$170 million[4][5][6]",
-    "Box office": "$353.3 million[7]"
+    "Budget": "$170 million",
+    "Box office": "$353.3 million"
   },
   {
     "title": "Penguins",
     "Directed by": "Jeff Wilson",
     "Produced by": "Jeff Wilson",
     "Written by": "David Fowler",
-    "Narrated by": "Ed Helms[1]",
+    "Narrated by": "Ed Helms",
     "Music by": "Harry Gregson-Williams",
     "Edited by": "Andy Netley",
-    "Productioncompany ": "Silverback Films[2]",
+    "Productioncompany ": "Silverback Films",
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "April 17, 2019 (2019-04-17) (United States)",
     "Running time": "76 minutes",
     "Country": "United States",
     "Language": "English",
-    "Box office": "$7.7\n million[3]"
+    "Box office": "$7.7\n million"
   },
   {
     "title": "Aladdin",
     "Directed by": "Guy Ritchie",
     "Produced by": "Jonathan Eirich",
     "Screenplay by": "Guy Ritchie",
-    "Based on": "Aladdin and the Magic Lamp from One Thousand and One Nights[1][a]",
+    "Based on": "Aladdin and the Magic Lamp from One Thousand and One Nights[a]",
     "Starring": "Billy Magnussen",
     "Music by": "Alan Menken",
     "Cinematography": "Alan Stewart",
@@ -6869,11 +6869,11 @@
     "Productioncompany ": "Marc Platt Productions",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "May 24, 2019 (2019-05-24) (United States)",
-    "Running time": "128 minutes[5]",
+    "Running time": "128 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$183 million[6]",
-    "Box office": "$1.051 billion[6]"
+    "Budget": "$183million",
+    "Box office": "$1.051billion"
   },
   {
     "title": "Toy Story 4",
@@ -6882,24 +6882,24 @@
     "Screenplay by": "Stephany Folsom",
     "Story by": "Stephany Folsom",
     "Starring": "Joan Cusack",
-    "Music by": "Randy Newman[3]",
+    "Music by": "Randy Newman",
     "Cinematography": "Jean-Claude Kalache",
     "Edited by": "Axel Geddes",
     "Productioncompanies ": "Pixar Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "June 21, 2019 (2019-06-21) (United States)",
-    "Running time": "100 minutes[4]",
+    "Running time": "100 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million[5]",
-    "Box office": "$1.073 billion[6][7]"
+    "Budget": "$200 million",
+    "Box office": "$1.073 billion"
   },
   {
     "title": "The Lion King",
     "Directed by": "Jon Favreau",
     "Produced by": "Karen Gilchrist",
     "Screenplay by": "Jeff Nathanson",
-    "Based on": "Disney's The Lion Kingby Irene MecchiJonathan RobertsLinda Woolverton[1]",
+    "Based on": "Disney's The Lion Kingby Irene MecchiJonathan RobertsLinda Woolverton",
     "Starring": "James Earl Jones",
     "Music by": "Hans Zimmer",
     "Cinematography": "Caleb Deschanel",
@@ -6907,11 +6907,11 @@
     "Productioncompany ": "Fairview Entertainment",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "July 19, 2019 (2019-07-19) (United States)",
-    "Running time": "118 minutes[2]",
+    "Running time": "118 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$250–260 million[3][4]",
-    "Box office": "$1.657 billion[5]"
+    "Budget": "$250–260million",
+    "Box office": "$1.657billion"
   },
   {
     "title": "Maleficent: Mistress of Evil",
@@ -6925,12 +6925,12 @@
     "Edited by": "Craig Wood",
     "Productioncompany ": "Roth/Kirschenbaum Films",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
-    "Release date": "October 18, 2019 (2019-10-18)[2]",
-    "Running time": "119 minutes[3]",
+    "Release date": "October 18, 2019 (2019-10-18)",
+    "Running time": "119 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$185 million[4]",
-    "Box office": "$492.7 million[3]"
+    "Budget": "$185 million",
+    "Box office": "$492.7 million"
   },
   {
     "title": "Lady and the Tramp",
@@ -6939,16 +6939,16 @@
     "Screenplay by": "Kari Granlund",
     "Based on": "Happy Dan, the Cynical Dogby Ward Greene",
     "Starring": "Sam Elliott",
-    "Music by": "Joseph Trapanese[1]",
-    "Cinematography": "Enrique Chediak[2]",
+    "Music by": "Joseph Trapanese",
+    "Cinematography": "Enrique Chediak",
     "Edited by": "Melissa Bretherton",
-    "Productioncompany ": "Taylor Made[3]",
+    "Productioncompany ": "Taylor Made",
     "Distributed by": "Disney+Walt Disney Studios Motion Pictures",
     "Release date": "November 12, 2019 (2019-11-12) (United States)",
     "Running time": "104 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$60 million[4]"
+    "Budget": "$60 million"
   },
   {
     "title": "Noelle",
@@ -6970,8 +6970,8 @@
     "title": "Frozen II",
     "Directed by": "Jennifer Lee",
     "Produced by": "Peter Del Vecho",
-    "Screenplay by": "Jennifer Lee[1]",
-    "Story by": "Robert Lopez[2]",
+    "Screenplay by": "Jennifer Lee",
+    "Story by": "Robert Lopez",
     "Starring": "Jonathan Groff",
     "Music by": "Kristen Anderson-Lopez (songs)",
     "Cinematography": "Mohit Kallianpur (lighting)",
@@ -6979,11 +6979,11 @@
     "Productioncompany ": "Walt Disney Animation Studios",
     "Distributed by": "Walt Disney StudiosMotion Pictures",
     "Release date": "November 22, 2019 (2019-11-22) (United States)",
-    "Running time": "103 minutes[4]",
+    "Running time": "103 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million[5]",
-    "Box office": "$1.450 billion[5][6]"
+    "Budget": "$150 million",
+    "Box office": "$1.450 billion"
   },
   {
     "title": "Togo",
@@ -6991,7 +6991,7 @@
     "Produced by": "Kim Zubick",
     "Written by": "Tom Flynn",
     "Starring": "Willem Dafoe",
-    "Music by": "Mark Isham[1]",
+    "Music by": "Mark Isham",
     "Cinematography": "Ericson Core",
     "Edited by": "Martin Pensa",
     "Productioncompany ": "Walt Disney Pictures",
@@ -7000,6 +7000,6 @@
     "Running time": "114 minutes",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$40 million[2]"
+    "Budget": "$40 million"
   }
 ]
