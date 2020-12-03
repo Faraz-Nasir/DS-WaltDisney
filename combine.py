@@ -1,28 +1,3 @@
-'''
-elif i==12:
-        list=checklist(tbody[i])
-        list_confirmed=[]
-        for i in range(len(list)):
-            list_confirmed.append(bs(list[i],'html.parser'))
-        Key = tbody[i].get_text(" ",strip=True)
-        Data = list_confirmed
-        dictonary[Key] = Data
-    elif i==16 or i==17:
-        list = checklist(tbody[i])
-        list=bs(list,'html.parser')
-        Key = tbody[i].th.text
-        Data = list
-        dictonary[Key] = Data
-'''
-
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
-This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations.
-This article has multiple issues. Please help improve it or discuss these issues on the talk page.
-This article's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions.
-This article may need to be rewritten to comply with Wikipedia's quality standards. You can help. The talk page may contain suggestions. 
-This article does not cite any sources. Please help improve this article by adding citations to reliable sources. 
-This article is missing
-
 import requests
 from bs4 import BeautifulSoup as bs
 
@@ -76,37 +51,39 @@ wiki_errors=['This article needs additional citations for verification. Please h
              "This article is missing information about the film's production. Please expand the article to include this information. Further details may exist on the talk page."
              ]
 for k in range(len(links)):
-
+    print(k)
     res=requests.get(links[k])
     b=bs(res.text,'html.parser')
     dictonary = {}
     tbody=b.find('tbody')
     tbody=tbody.find_all('tr')
-    print(k)
-    try:
-        count=0
-        for i in range(len(wiki_errors)):
-            if (wiki_errors[i] in checklist(tbody[k])):
+    count=0
+    for s in range(len(wiki_errors)):
+        try:
+            if (wiki_errors[s] in tbody[0].text):
                 count+=1
-
-        if(count!=0):
-            print(count)
-            break
-        else:
-            for t in range(len(tbody)):
-                if t == 0:
-                    dictonary['title'] = tbody[t].text
-                elif t == 1:
+        except AttributeError:
+            continue
+    if(count==0):
+        for t in range(len(tbody)):
+            try:
+                if t==0:
+                    dictonary['title']=tbody[t].text
+                elif t==1:
                     continue
                 else:
                     Key = tbody[t].th.text
-                    Data = checklist(tbody[t])
-                    dictonary[Key] = Data
-            li_movies.append(dictonary)
-    except:
-            continue
+                    Data=checklist(tbody[t])
+                    dictonary[Key]=Data
 
+            except AttributeError:
+                continue
+        print(dictonary)
+        li_movies.append(dictonary)
+print(len(li_movies))
 for i in range(len(li_movies)):
     print(li_movies[i])
+
+save_data("Walt_Disney_Movies.json",li_movies)
 
 
