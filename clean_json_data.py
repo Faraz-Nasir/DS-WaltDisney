@@ -51,7 +51,7 @@ for i in range(len(dict)):
     print(dict[i])
 save_data("Walt_Disney_Movies.json",dict)"""
 
-#minutes,min,list
+"""#minutes,min,list
 def minute_to_integer(running_time):
     value=running_time.split(" ")[0]
     return value
@@ -82,6 +82,62 @@ for i in range(len(dict)):
         print("Done")
 
 save_data("Walt_Disney_Movies.json",dict)
+"""
+dict=load_data("Walt_Disney_Movies.json")
+for i in range(len(dict)):
+    keys=dict[i].keys()
+    if("Budget" in keys):
+        if "-" in dict[i]["Budget"]:
+            test=0
+            test_budget=[]
+            for j in range(len(dict[i]["Budget"])):
+                if(dict[i]["Budget"][j]=="-"):
+                    test=j+1
+                    break
+            for k in range(test,len(dict[i]["Budget"])):
+                test_budget.append(dict[i]["Budget"][k])
+            str=""
+            str=str.join(test_budget)
+            dict[i]["Budget"]=str
+        if "." in dict[i]["Budget"]:
+            dict[i]["Budget"] = dict[i]["Budget"].replace(".", "")
+        if "$" in dict[i]["Budget"]:
+            dict[i]["Budget"] = dict[i]["Budget"].replace("$", "")
+        if "million" in dict[i]["Budget"]:
+            dict[i]["Budget"]=dict[i]["Budget"].replace(" million","000000")
+            dict[i]["Budget"] = dict[i]["Budget"].replace("million", "000000")
+        if "billion" in dict[i]["Budget"]:
+            dict[i]["Budget"]=dict[i]["Budget"].replace(" billion","000000000")
+            dict[i]["Budget"] = dict[i]["Budget"].replace("billion", "000000000")
+    if("Box office" in keys):
+        if "." in dict[i]["Box office"]:
+            dict[i]["Box office"] = dict[i]["Box office"].replace(".", "")
+        if "$" in dict[i]["Box office"]:
+            dict[i]["Box office"] = dict[i]["Box office"].replace("$", "")
+        if "-" in dict[i]["Box office"]:
+            test=0
+            test_budget=[]
+            for j in range(len(dict[i]["Box office"])):
+                if(dict[i]["Box office"][j]=="-"):
+                    test=j+1
+                    break
+            for k in range(test,len(dict[i]["Box office"])):
+                test_budget.append(dict[i]["Box office"][k])
+            str=""
+            str=str.join(test_budget)
+            dict[i]["Box office"]=str
+
+        if "million" in dict[i]["Box office"]:
+            dict[i]["Box office"]=dict[i]["Box office"].replace(" million","000000")
+            dict[i]["Box office"] = dict[i]["Box office"].replace("million", "000000")
+        if "billion" in dict[i]["Box office"]:
+            dict[i]["Box office"]=dict[i]["Box office"].replace(" billion","000000000")
+            dict[i]["Box office"] = dict[i]["Box office"].replace("billion", "000000000")
+
+
+    print(dict[i])
+
+
 
 
 
