@@ -83,7 +83,7 @@ for i in range(len(dict)):
 
 save_data("Walt_Disney_Movies.json",dict)
 """
-dict=load_data("Walt_Disney_Movies.json")
+"""dict=load_data("Walt_Disney_Movies.json")
 for i in range(len(dict)):
     keys=dict[i].keys()
     if("Budget" in keys):
@@ -109,9 +109,15 @@ for i in range(len(dict)):
             dict[i]["Box office"]=dict[i]["Box office"].replace(" billion","000000000")
             dict[i]["Box office"] = dict[i]["Box office"].replace("billion", "000000000")
 save_data("Walt_Disney_Movies.json",dict)
+"""
+#save data using pickle
+import pickle
+def save_data_pickle(pickle_doc,pass_dictonary):
+    with open(pickle_doc,"wb") as f:
+        pickle.dump(pass_dictonary,f)
 
+def load_data_pickle(pickle_doc):
+    with open(pickle_doc,"rb") as f:
+        return pickle.load(f)
 
-
-
-
-
+save_data_pickle("Walt_Disney_Movie_Pickle.pickle",dict)
