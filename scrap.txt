@@ -110,3 +110,18 @@ for i in range(len(li_movies)):
     print(li_movies[i])
 
 "Release date"
+
+"""        if "-" in dict[i]["Box office"]:
+            test = 0
+            test_budget = []
+            for j in range(len(dict[i]["Box office"])):
+                if (dict[i]["Box office"][j] == "-"):
+                    test = j + 1
+                    break
+            for k in range(test, len(dict[i]["Box office"])):
+                test_budget.append(dict[i]["Box office"][k])
+            str = ""
+            str = str.join(test_budget)
+            dict[i]["Box office"] = str"""
+
+
